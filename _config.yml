@@ -2,12 +2,10 @@ title:            aslam | blog
 description:      personal scrapbook of aslam abbas
 url:              aslamabbas.github.io
 signoff:          aslamabbas
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
-google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
   - name:         Home
-    url:          /home
+    url:          /
   - name:         About
     url:          /about
   - name:         Email
