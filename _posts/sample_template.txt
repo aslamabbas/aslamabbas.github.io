@@ -1,0 +1,20 @@
+**Prerequisites**
+
+
+**Audience**
+
+
+**To Know**
+
+
+**Steps**
+
+-   Download a vagrant box. I downloaded fedora cloud image from [cloud download from fedora](https://getfedora.org/en/cloud/download/)
+-   alskjd
+-   lkasjd
+
+**Conclusion**
+
+
+
+
