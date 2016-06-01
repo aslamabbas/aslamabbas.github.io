@@ -1,19 +1,14 @@
 title:            aslam | blog
-description:      personal scrapbook of aslam abbas
+description:      personal scrapbook of aslam
 url:              aslamabbas.github.io
 signoff:          aslamabbas
 
 links:
-  - name:         Home
+  - name:         all-posts
     url:          /
-  - name:         About
+  - name:         about
     url:          /about
-  - name:         Email
-    url:          mailto:aslam.abbas@outlook.com
-    external:     true
-  - name:         GitHub
-    url:          http://github.com/aslamabbas
-    external:     true
+
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet

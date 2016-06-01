@@ -2,7 +2,7 @@
 layout: post
 title: An Intro to Cloud
 published: true
-categories: cloud
+tags: tech
 disqus:	y
 share: y
 ---

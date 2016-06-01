@@ -2,7 +2,7 @@
 layout: post
 title: Things to Know Before Buying a Cycle in India
 published: false
-categories:
+tags: random
 ---
 **Prerequisites**
 
@@ -16,10 +16,6 @@ An interest in working out or travelling or just cycling for the fun of it.
 
 **Why Cycling**
 
-**Cycling jargon**
-
-mtb hybrid
-roadbike
 **Which cycle**
 
 **My Budget is low**

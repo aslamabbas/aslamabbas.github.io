@@ -2,6 +2,7 @@
 layout: page
 title: About
 ---
+I am just scribbling down my thoughts and ideas. 
 
-Just scribbling down my notes. If you find any inappropriate content or copy-righted content, please send me a mail. And I will have it removed.
-Thank you, [Mu-An](http://muan.co) for the jekyll theme
+You can reach me at [aslam.abbas@outlook.com](mail:aslam.abbas@outlook.com). 
+Thank you, [Mu-An](http://muan.co) for the jekyll theme.

@@ -2,7 +2,7 @@
 layout: post
 title: A Quick Start to Vagrant
 published: true
-categories: beginner
+tags: tech
 disqus: y
 share: y
 ---
