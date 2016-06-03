@@ -7,6 +7,10 @@ disqus:	y
 share: y
 ---
 
+**Prerequisites**
+
+The term, "Cloud" is something that that is heard repeatedly and still remains ambiguous.
+
 **Audience**
 
 Newbies / Beginners in Cloud, Iaas, Saas, Paas, openstack, openshift, aws and what not.
