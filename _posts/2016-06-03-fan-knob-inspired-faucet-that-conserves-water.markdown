@@ -60,7 +60,7 @@ Coming to the most important point of the post. We are all familiar with the fan
 
 We set the knob to a higher number for more fan-speed. A very classic approach. Why not apply the same approach for a faucet? Something like below: 
 
-![fan-based knob for faucet](https://photos-4.dropbox.com/t/2/AACPZurxDFFqWrDVJsQr8UUFxzJq0e3wKJbtp36HHd5U_A/12/126648700/png/32x32/1/_/1/2/fan-based.png/EK3XxmEYLCACKAI/7B_rBk7yD9exziy7TLuvqPGP4cIu5aVC6nZItRArB2g?size=800x600&size_mode=3)
+![fan-based knob for faucet](http://cdn-simplyblog.rhcloud.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=544&a=true&file=fan-based.png&t=vxCbArV6JBSTqiF&scalingup=0)
 
 Some of you readers may have already figured out the benefits of this approach. For those who haven't, please read on. The faucet knob works like a screw. You loosen it up to allow the water to come out. The more you loosen it, the more water will flow. There is no friction in between. One more important point to note is that, in the state where the faucet is open (water is flowing out), a lot of water gets wasted without being utilised. This is because it is a mundane task to open and close the faucet every now and then.
 
