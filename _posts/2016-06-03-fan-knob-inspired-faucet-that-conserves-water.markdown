@@ -56,7 +56,7 @@ Also, see [Typical water usage](http://water.usgs.gov/edu/qa-home-percapita.html
 
 Coming to the most important point of the post. We are all familiar with the fan knob. 
 
-![Fan-Knob](https://photos-1.dropbox.com/t/2/AACgJAnVsJc_RmQCPUNQX0FzQ9OJN_E-DnXVC_2DHgF9Xg/12/126648700/jpeg/32x32/1/_/1/2/POWER-PP%26LS-ARLEC2KNOB-A-600x600.JPG/EK3XxmEYLCACKAI/uVPmLZ590-wxVxxgHJCnv2Ur5R2gDtClZ2MrpGmSQb8?size=800x600&size_mode=3)
+![Fan-Knob](http://cdn-simplyblog.rhcloud.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=544&a=true&file=fan-knob.JPG&t=auhsNz0BEp1GEZ8&scalingup=0)
 
 We set the knob to a higher number for more fan-speed. A very classic approach. Why not apply the same approach for a faucet? Something like below: 
 

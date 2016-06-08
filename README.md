@@ -1,2 +1,3 @@
-Moving to Jekyll on Openshift.
-This repo will become deprecated.
+Jekyll blog for [aslamabbas.com](http://aslamabbas.com)
+
+Theme from [muan.co](https://github.com/muan)
