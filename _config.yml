@@ -15,3 +15,5 @@ links:
 highlighter:      rouge
 permalink:        pretty
 markdown:         kramdown
+gems:
+  - jekyll-sitemap

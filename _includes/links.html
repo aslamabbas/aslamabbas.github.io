@@ -1,11 +1,11 @@
 <div class="block">
 
   {% for tag in site.tags %}
-  	<a href="/tags/{{ tag[0] }}" class="main">{{ tag[0] }}</a>
+  	<a href="/tags/{{ tag[0] }}" class="main"  hreflang="en">{{ tag[0] }}</a>
   {% endfor %}
 
   {% for link in site.links %}
-    <a target="{% if link.external %}_blank{% else %}_top{% endif %}" class="main" href="{{ link.url }}">{{ link.name }}</a>
+    <a target="{% if link.external %}_blank{% else %}_top{% endif %}" class="main" href="{{ link.url }}"  hreflang="en">{{ link.name }}</a>
   {% endfor %}
   
 </div>
