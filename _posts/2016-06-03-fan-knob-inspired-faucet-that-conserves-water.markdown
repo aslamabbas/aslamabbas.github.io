@@ -20,12 +20,8 @@ Knowledge of using a faucet (American) , commonly known as a water tap (British)
 
 Basically, a water tap is a tool used by people all around the world to control the flow of water. Earliest plumbing systems started to appear from around 1700 B.C. Most of the faucets and valves we see today were designed in the 1930-1960 period. Not much has changed in their design from then. 
 
-Working of a traditional kitchen tap as shown by [Ultimate Handyman](http://www.ultimatehandyman.co.uk/index.htm)
+[See](https://www.youtube.com/watch?v=FV4kH8IMjtY) the working of a traditional kitchen tap as shown by [Ultimate Handyman](http://www.ultimatehandyman.co.uk/index.htm).
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/FV4kH8IMjtY" frameborder="0" allowfullscreen> </iframe>
-
-
-<b class="small">Source of info: [home-water-works](http://www.home-water-works.org/indoor-use/faucet)</b>
 
 **Conservation Measures**
 
