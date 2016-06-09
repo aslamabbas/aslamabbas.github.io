@@ -1,6 +1,6 @@
 title:            aslam | blog
 description:      personal scrapbook of aslam
-url:              aslamabbas.github.io
+url:              aslamabbas.com
 signoff:          aslamabbas
 
 links:
@@ -15,5 +15,3 @@ links:
 highlighter:      rouge
 permalink:        pretty
 markdown:         kramdown
-
-cdnurl:           http://cdn-simplyblog.rhcloud.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=544&a=true

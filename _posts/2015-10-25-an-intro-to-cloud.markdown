@@ -23,7 +23,7 @@ But some of these computers are special. Some have extra storage, extra processi
 
 **Right, so what is it exactly?**
 
-![services of the cloud](http://cdn-simplyblog.rhcloud.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=544&a=true&file=isp.png&t=PVxYTmEytATNqJe&scalingup=0)
+![services of the cloud](http://cdn-simplyblog.rhcloud.com/uploads/big/f4e611e016981335c0f50182d44e7906.png)
 
 Ok, we have to talk technical now. You must have used Gmail or Google Drive. Basically you are using a software made by Google over the web. In other words, Google is providing a service through the public cloud. What type of service? software. You are also accustomed to using Office tools. The Saas version of it is Office365. Hope you got the picture about Saas.
 
