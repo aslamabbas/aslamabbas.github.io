@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta content='{{ site.title }}' property='og:title' />
-    {% include meta.html %}
     <title>{{ site.title }}</title>
     {% include head.html %}
   </head>
@@ -11,7 +9,7 @@
     <div id='container'>
       {% include links.html %}
       <div class="content">		        
-		<h3>All posts on #{{ page.tag }}</h3>
+		<h3>On #{{ page.tag }}, I wrote</h3>
 
 		<ul class="posts">
 		{% for post in site.tags[page.tag] %}

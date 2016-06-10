@@ -2,6 +2,9 @@
 layout: post
 title: An Intro to Cloud
 published: true
+description: Understand what the Cloud is at its most abstract level and in the simplest terms.
+picture: http://cdn-simplyblog.rhcloud.com/uploads/big/d56ef532c24793c3fdef9dfe595d942c.png
+keywords: cloud, saas, paas, iaas, newbie, beginner, openstack, openshift, introduction, learn
 tags: tech
 disqus:	y
 share: y
@@ -23,7 +26,8 @@ But some of these computers are special. Some have extra storage, extra processi
 
 **Right, so what is it exactly?**
 
-![services of the cloud](http://cdn-simplyblog.rhcloud.com/uploads/big/f4e611e016981335c0f50182d44e7906.png)
+<center><img src="http://cdn-simplyblog.rhcloud.com/uploads/big/f4e611e016981335c0f50182d44e7906.png" alt="Services of the Cloud" /></center>
+<center><b class="small"><a href="http://www.digit.in/technology-guides/fasttrack-to-cloud-services/what-are-cloud-services.html">Photo Credit</a></b></center>
 
 Ok, we have to talk technical now. You must have used Gmail or Google Drive. Basically you are using a software made by Google over the web. In other words, Google is providing a service through the public cloud. What type of service? software. You are also accustomed to using Office tools. The Saas version of it is Office365. Hope you got the picture about Saas.
 

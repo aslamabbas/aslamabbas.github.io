@@ -2,6 +2,9 @@
 layout: post
 title: Fan-Knob inspired Water-Tap
 published: true
+description: An innovative idea for a faucet that can control water usage. Inspired by the Fan knob regulator.
+picture: http://cdn-simplyblog.rhcloud.com/uploads/big/ee157323a73970194ddd7b0cf7e56e40.png
+keywords: fan, faucet, water, tap, conservation, water, design
 tags: ideas
 disqus:	y
 share: y
@@ -52,11 +55,13 @@ Also, see [Typical water usage](http://water.usgs.gov/edu/qa-home-percapita.html
 
 Coming to the most important point of the post. We are all familiar with the fan knob. 
 
-![Fan-Knob](http://cdn-simplyblog.rhcloud.com/uploads/big/7177995c25d137781ee231026a5b9b31.JPG)
+<center><img src="http://cdn-simplyblog.rhcloud.com/uploads/big/7177995c25d137781ee231026a5b9b31.JPG" alt="Fan-Knob" /></center>
+<center><b class="small"><a href="http://www.nerdswarehouse.com.au/Product?product_id=579">Photo Credit</a></b></center>
 
 We set the knob to a higher number for more fan-speed. A very classic approach. Why not apply the same approach for a faucet? Something like below: 
 
-![fan-based knob for faucet](http://cdn-simplyblog.rhcloud.com/uploads/big/4e1b04afe29ccfc35a4ca01924fa30b5.png)
+<center><img src="http://cdn-simplyblog.rhcloud.com/uploads/big/4e1b04afe29ccfc35a4ca01924fa30b5.png" alt="fan-based knob for faucet" /></center>
+
 
 Some of you readers may have already figured out the benefits of this approach. For those who haven't, please read on. The faucet knob works like a screw. You loosen it up to allow the water to come out. The more you loosen it, the more water will flow. There is no friction in between. One more important point to note is that, in the state where the faucet is open (water is flowing out), a lot of water gets wasted without being utilised. This is because it is a mundane task to open and close the faucet every now and then.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Finding your Passion or Should I?
 published: false
-categories: life
+tags: life
 ---
 
 ###What's your passion? 

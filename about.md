@@ -1,6 +1,9 @@
 ---
 layout: page
-title: About
+title: About me
+description: Aslam writes stuff on technology, ideas, cycling, people and so on. You can read them here. Enjoy your reads. 
+keywords: aslam, abbas, aslam abbas, blog, tkm, redhat, consultant, tech, cloud, cycling, tips, ideas, innovation, engineer, kerala
+picture: http://cdn-simplyblog.rhcloud.com/uploads/big/eed897ae54b5054aca9e7a960fb0903c.png
 ---
 
 You can reach me at [aslam.abbas@outlook.com](mail:aslam.abbas@outlook.com). Also check out my [about.me](http://about.me/aslamabbas) page. 

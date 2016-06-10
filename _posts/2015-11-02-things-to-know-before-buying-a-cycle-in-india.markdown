@@ -2,6 +2,9 @@
 layout: post
 title: Things to Know Before Buying a Cycle in India
 published: true
+description: A guideline for a buyer who is planning to buy a cycle from India. Tips on choosing the type of cycle based on the buyer's need.
+picture: http://cdn-simplyblog.rhcloud.com/uploads/big/70e844cbdab5a1d1b9236437090b7608.png
+keywords: amateur, cycle, buy, india, online, road bike, hybrid, mtb, workout, commute, office
 tags: random
 disqus:	y
 share: y
@@ -18,7 +21,10 @@ An interest in working out or travelling or just cycling for the fun of it.
 
 **Mindset of the buyer**
 
-Now this is a good question. The answer varies from person to person. I have amassed some of the typical cases.
+<center><img src="http://cdn-simplyblog.rhcloud.com/uploads/big/209820cc595af03a2150be24498ab9cd.jpg" alt="Choosing a bike" /></center>
+<center><b class="small"><a href="http://uk.complex.com/sports/2014/06/buying-your-first-road-bike/">Photo Credit</a></b></center>
+
+Now this is what we have to discuss. The answer varies from person to person. I have amassed some of the typical cases.
 
 If the person is concerned about ever increasing fossil fuel prices and the environmental impact they have, then they will have thought about other environmental-friendly alternatives for transportation. And it is no surprise that they choose cycling because of it's added fitness benefits. They are not bothered whether they have an 8-gear MTB or super light-weight Road bike. They only look for a decent bike that fits their wallet and lasts long.  They should really consider a single-speed city cycle in my opinion. 
 

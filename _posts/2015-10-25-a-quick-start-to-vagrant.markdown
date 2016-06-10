@@ -2,6 +2,9 @@
 layout: post
 title: A Quick Start to Vagrant
 published: true
+description: Learn to launch a virtual machine using Vagrant in very simple steps. 
+picture: http://cdn-simplyblog.rhcloud.com/uploads/big/94a6111daa57162de78907c26e9f60b4.png
+keywords: vagrant, virtualisation, newbie, beginner, learn, install
 tags: tech
 disqus: y
 share: y
@@ -18,11 +21,15 @@ Anybody who wants to test out Vagrant or planning to switch to Vagrant
 
 **What is Vagrant?**
 
+<center><img src="http://cdn-simplyblog.rhcloud.com/uploads/big/4c0c8edadf09ea4520edba108fad71ca.png" alt="Vagrant" /></center>
+<center><b class="small"><a href="https://www.hashicorp.com/blog/tags/vagrant.html">Photo Credit</a></b></center>
+
+
 If you have used VirtualBox, then you have already played around with images, installing operating systems, creating snapshots. Vagrant offers the same solution, but much more. Instead of images, you work with boxes. (Check out [vagrantbox.es](http://www.vagrantbox.es/)). You will be playing around with Vagrantfile.
 
 **Steps**
 
--   Download a vagrant box. I downloaded fedora cloud image from [cloud download from fedora](https://getfedora.org/en/cloud/download/)
+-   Download a vagrant box. I downloaded fedora cloud image from [Cloud Download Fedora](https://getfedora.org/en/cloud/download/)
 
     ```
     ~/Downloads/Fedora-Cloud-Base-Vagrant-22-20150521.x86_64.vagrant-libvirt.box
