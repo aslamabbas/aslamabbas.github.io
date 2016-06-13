@@ -337,7 +337,8 @@ code {
   *vertical-align: auto; }
 
 img {
-  max-width: 100%; }
+  max-width: 100%; 
+  border-radius: 7px;}
   img.half {
     width: 50%; }
 
