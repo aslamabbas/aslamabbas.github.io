@@ -75,4 +75,4 @@ It's like they say, "When the going gets tough, the tough gets going".
 
 **To Know More**
 
-Read the [story](http://www.bloomberg.com/graphics/2015-elon-musk-spacex/) made by Bloomberg. It is pretty long but has all the details. They also made an excellent [documentary](https://www.youtube.com/watch?v=mh45igK4Esw). Also, check out his [reading list](http://www.inc.com/geoffrey-james/9-powerful-books-elon-musk-recommends.html). A part of his success it attributed to his obsessive reading habit and a super brain to process it all.
+Read the [story](http://www.bloomberg.com/graphics/2015-elon-musk-spacex/) made by Bloomberg. It is pretty long but has all the details. They also made an excellent [documentary](https://www.youtube.com/watch?v=mh45igK4Esw). Also, check out his [reading list](http://www.inc.com/geoffrey-james/9-powerful-books-elon-musk-recommends.html). A part of his success it attributed to his obsessive reading habit and a super brain that process it all.
