@@ -9,9 +9,6 @@ tags: random
 disqus:	y
 share: y
 ---
-**Prerequisites**
-
-An interest in working out or travelling or just cycling for the fun of it.
 
 **Audience**
 
@@ -32,7 +29,7 @@ If the person is a trekking/travelling junglee who loves exploring and conquerin
 
 If the person is living in the city, lives close to his place of work and is looking for a daily workout that will keep them healthy then their best choice is cycling. The best option for the urban person is a Hybrid bike. It has the looks of an MTB, but is light-weight like a Road bike. Some of them come without suspension. There are a lot of options in this range. I personally own a Fuji absolute 1.9. It has no suspension, but is super fast. It took me a lot of time to decide which one I should buy. I am very happy with the choice I have made. 
 
-Now comes the hardcore cyclist, who is inspired by [Tour De France](https://en.wikipedia.org/wiki/Tour_de_France), [Randonneuring](https://en.wikipedia.org/wiki/Randonneuring) and [Track cycling](https://en.wikipedia.org/wiki/Track_cycling). For him, nothing short of a Road bike will be satisfactory. It is fast, super light and aerodynamic. It is by definition built for the road. You can easily maintain 40-50 kph on this bike on the road. These people usually know the A-z of cycling. 
+Now comes the hardcore cyclist, who is inspired by [Tour De France](https://en.wikipedia.org/wiki/Tour_de_France), [Randonneuring](https://en.wikipedia.org/wiki/Randonneuring) and [Track cycling](https://en.wikipedia.org/wiki/Track_cycling). For him, nothing short of a Road bike will be satisfactory. It is fast, super light and aerodynamic. It is by definition built for the road. You can easily maintain 25-30 kph on this bike on the road. These people usually know the A-Z of cycling. 
 
 If you have decided to buy a cycle, see which mindset you belong to and then choose the type. 
 
@@ -49,6 +46,30 @@ The next day, I went to two other shops and did a test ride on similar models. I
 For a beginner, I would strictly advise buying offline. Because after you buy the bike, you will need some checkups, tuning, oiling and repair from time to time. If you go to the same shop from where you bought the cycle and keep a good relationship with the owner and staff, then most of this will be done for free of cost. You will also meet other fellow riders. Talking to people who share the same passion is a pleasant experience. 
 
 If you are buying online, you will definitely get better discounts. But there are downsides. My friend bought a Montra once. It arrived in parts that have to be assembled by an expert. Fortunately, the delivery man assembled it for him. My friend was a beginner and one week later I was riding alongside him. I took his bike out for a spin. Something felt wrong. The front derailer was completely messed up. It was just a small error,  but it made riding and shifting the front gear very cumbersome. Unfortunately, my friend was under the impression that it was the way the cycle was supposed to be. So such unfortunate events can occur if you buy online. If you are lucky, all will go well. It is up to you take the chances. 
+
+**Common Worries**
+
++	*Q:* The shop owner said the cycle is 21 speed. What does that mean?
+
+> Look closely at the cranks. In the front, you will probably see 3 cranks. The front [barrel adjuster](http://www.axiomgear.com/news/wp-content/uploads/2010/11/DSC5642.jpg) on the handle will also show the numbers, 1, 2 and 3. Similarly, the back gear cassettes will come to the count of 7. You can check the back barrel adjuster to confirm. So you have a total of 7 x 3 = 21 gear combinations. Four times that of a car huh!. If your cycle is 14 speed, then you probably have only 2 cranks in the front. 
+
++	*Q:* If I am buying a geared cycle, how many gears should I buy?
+
+> The first thing anyone will do when riding a geared bike for the first time will be playing with the gears. Trying to understand the shifting mechanisms and a suitable combination for his/her legs. To be honest, this question cannot be answered technically. So people buy a 14 speed and later switch to 21 speed. The reverse also happens. Some customize it and throw away gears that they don't use, to decrease the weight of the cycle. 
+
++	*Q:* What frame size should I buy?
+
+> This depends on your height. [This](http://www.ebicycles.com/bicycle-tools/frame-sizer) should help you out.
+
++	*Q:* What accessories must I buy?
+
+> If you love your head, then buy a helmet. If you want to look cool, then buy a cycling jersey. If you want to keep your hands safe from the sun and dust, then buy hand sleeves. If you like extra grip, then buy hand gloves. If you have sensitive eyes and wishes to protect them from the sun and dust, buy sunglasses. If you care for your cycle, then buy an awesome lock. If you want to save your ass from pain  when going for long rides, buy cycling shorts. If you are buying an imported cycle, you will have to buy a stand. If you ride in the night, buy a tail lamp and head lamp. If you still have some money in your wallet, buy an air pump.
+
+> The best advice I can give for people with a tight budget is, buy the cycle first and slowly as time passes you will understand what accessories you need. You can grab them online for the best prices.
+
++	*Q:* Who will maintain my cycle in the future?
+
+> You, of course. Most shops have a service center. It is better to ask them the service costs as well. Meanwhile, you will find plenty of tutorials online on DIY maintenance.
 
 **Follow the Social Media**
 
