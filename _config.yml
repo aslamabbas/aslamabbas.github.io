@@ -8,8 +8,8 @@ links:
     url:          /
   - name:         about
     url:          /about
-  - name:         wishlist
-    url:          http://www.amazon.in/gp/registry/wishlist/2N47HBSEOQ0G4/ref=topnav_lists_2
+  - name:         subscribe
+    url:          http://aslamabbas.com/feed.xml
     external:     true
   - name:         search
     url:          /search    
