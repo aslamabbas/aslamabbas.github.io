@@ -5,32 +5,6 @@ published: false
 categories:
 ---
 
-http://images.google.com/images?num=30&q=larry+bird
-
-you need to encode the URL as:
-
-http://images.google.com/images?num=30&amp;q=larry+bird
-
-
-So, if you want to include a copyright symbol in your article, you can write:
-
-&copy;
-
-and Markdown will leave it alone. But if you write:
-
-AT&T
-
-Markdown will translate it to:
-
-AT&amp;T
-
-Similarly, because Markdown supports inline HTML, if you use angle brackets as delimiters for HTML tags, Markdown will treat them as such. But if you write:
-
-4 < 5
-
-Markdown will translate it to:
-
-4 &lt; 5
 
 Paragraphs and Line Breaks
 
