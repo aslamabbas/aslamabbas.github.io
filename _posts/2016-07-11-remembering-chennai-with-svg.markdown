@@ -2,7 +2,7 @@
 layout: post
 title: Remembering Chennai with SVG
 published: true
-description: Understand what is an SVG, how to make one and what are its components
+description: Making animations using SVG with Chennai as the theme.
 keywords: svg, learn, animation, html, css, newbie, part, rectangle, circle, polyline, polygon, vivus, snapsvg
 tags: tech
 disqus:	y
