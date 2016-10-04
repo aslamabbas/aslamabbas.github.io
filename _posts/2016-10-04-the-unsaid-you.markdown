@@ -18,7 +18,7 @@ I know, what I know.
 Have you ever wondered?
 That I would like to know you.
 And just so you know
-Like me or not, I like you
+Like me or not, I like you.
 
 --
 
