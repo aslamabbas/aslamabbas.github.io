@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A 7 day trip to the Ever-Serene Tawang by 7 people
-published: true
+published: false
 description: A real story of our 7-day trip to Tawang
 keywords: Tawang, Dirang, Bomdilla, Bhalukpong, Bum La Pass, China, Tourist, travel, zoomcar, north-east, india
 tags: life

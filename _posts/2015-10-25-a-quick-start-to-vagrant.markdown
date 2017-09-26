@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Start to Vagrant
-published: true
+published: false
 description: Learn to launch a virtual machine using Vagrant in very simple steps. 
 picture: http://cdn-simplyblog.rhcloud.com/uploads/big/94a6111daa57162de78907c26e9f60b4.png
 keywords: vagrant, virtualisation, newbie, beginner, learn, install

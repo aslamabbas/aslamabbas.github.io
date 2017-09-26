@@ -3,7 +3,6 @@ layout: post
 title: Is Elon Musk, the World's Greatest Entrepreneur?
 published: true
 description: A peek into the life of Elon Musk. What makes him a great entreprenuer and what we can learn from him.
-picture: http://cdn-simplyblog.rhcloud.com/uploads/big/6944db4dd508d621a8ef02943997848f.png
 keywords: Elon Musk, SpaceX, Tesla Motors, Zip2, Entrepreneur, NASA
 tags: people
 disqus:	y
@@ -31,7 +30,7 @@ Over time, we have seen and heard plenty of intellectuals who have preached simi
 
 **Childhood to Youth in a Nutshell**
 
-<center><img src="http://cdn-simplyblog.rhcloud.com/uploads/big/454721fa649b0a68f99e21800fca6f01.jpg" alt="Elon Musk as a child" /></center>
+<center><img src="https://lh3.googleusercontent.com/u/0/d/0BwzDnRSrxRoaWXZnX2hMNkpzR00=s1600-k-iv1" alt="Elon Musk as a child" /></center>
 <center><b class="small"><a href="http://www.bloomberg.com/graphics/2015-elon-musk-spacex/">Photo Credit</a></b></center>
 
 
@@ -46,7 +45,7 @@ With his father's(Errol Musk) money and brother's(Kimbal Musk) help, Elon starte
 
 Musk did not want to sit idle. He started out with X.com. It was an online financial services company. This is later merged with Confinity to form the Paypal, as we know now. Paypal, was in fact the money transfer service of Confinity. After the merge, Musk firmly believed that the market is changing and all efforts must focus on this service. This I believe was his biggest turning point. In 2002, Paypal was acquired by eBay. Musk owned 11 percent of Paypal stock at that time. 
 
-<center><img src="http://cdn-simplyblog.rhcloud.com/uploads/big/b91ec50f4af1daae52cc5c0d69d36ea4.jpg" alt="Elon Musk at SpaceX" /></center>
+<center><img src="https://lh3.googleusercontent.com/u/0/d/0BwzDnRSrxRoaaXdiNzdBbFZBbG8=s1600-k-iv1" alt="Elon Musk at SpaceX" /></center>
 <center><b class="small"><a href="http://www.thesundaytimes.co.uk/">Photo Credit</a></b></center>
 
 The very same year, he started SpaceX. His original plan was a little different. It was called , "Mars Oasis". Basically, he wanted to send a rocket to Mars, with seed saplings and start a greenhouse there. In order to construct the rocket, he needed ICBMs. 
@@ -59,7 +58,7 @@ He made a lot of trips to Russia, to see if he could buy refurbished ICBMs. In o
 
 Almost in the same time frame, Musk took an interest in Tesla Motors. It planned to make mass electric vehicles. He led the Series A funding of the company from his personal funds. Unlike other electric car manufacturers, who targets the office going regular folk to make low-end products , Tesla targeted the elite. They went on to make luxurious sports cars. Musk oversaw the production of their first product, "Tesla Roadster" from end to end. He was more engaged in the technology aspect of the vehicle than the business point of view. That is not something you expect out of a CEO or a Co-founder.  Tesla Motors started moving from early adopters to actual large- scale customers. Tesla also kept on coming with newer models. In 2006, Musk also helped his cousins, Peter and Lyndon to start a company called, SolarCity that provides residential solar power. This was a very intelligent move. Today it produces enough electricity to power the entire Tesla fleet. 
 
-<center><img src="http://cdn-simplyblog.rhcloud.com/uploads/big/6d78143a693b814d06de303c281cf32c.jpg" alt="Tesla Charging Station" /></center>
+<center><img src="https://lh3.googleusercontent.com/u/0/d/0BwzDnRSrxRoaS0lPY0VXZVVKN3c=s1600-k-iv1" alt="Tesla Charging Station" /></center>
 <center><b class="small"><a href="http://www.theautochannel.com/news/2016/03/25/213148-tesla-expanding-manhattan-ny-recharging-station-network.html">Photo Credit</a></b></center>
 
 

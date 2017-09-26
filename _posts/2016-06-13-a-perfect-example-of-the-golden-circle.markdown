@@ -3,7 +3,6 @@ layout: post
 title: A perfect example of the Golden Circle
 published: true
 description: Simon Sinek came up with the slogan, 'Start with the Why'. I saw it implemented by Momondo.com
-picture: http://cdn-simplyblog.rhcloud.com/uploads/big/cd76922fa02ec757b8c9a4750909d5a4.png
 keywords: momondo, simon sinek, golden, circle, sales, why, dna journey, travel, company, startup
 tags: ideas
 disqus:	y
@@ -31,7 +30,7 @@ I sat in my seat, giggling to myself. An online travel search company made an Ad
 
 **Flashback**
 
-<center><img src="http://cdn-simplyblog.rhcloud.com/uploads/big/66987c1c5ea777ca32f48613cb97c7fd.png" alt="Golden Circle" /></center>
+<center><img src="https://lh3.googleusercontent.com/u/0/d/0BwzDnRSrxRoaVzhrckc5TGxuOGc=s1600-k-iv1" alt="Golden Circle" /></center>
 <center><b class="small"><a href="http://betaglyph.com/start-with-why/">Photo Credit</a></b></center>
 
 The very same time, as I am taking all these in another bell rang in my brain. A few years back, I watched a great TED talk by Simon Sinek. It was a very inspiring talk. You will find the transcript [here](http://johnsoncook.com/start-with-why-simon-sinek-ted-talk-transcript-by-transcriptshq/#.V15cqyb82lM). You should either watch the video or read the transcript to understand what I have to share. Simon talks about thinking and communicating from the inside out. He talks about the success of Apple and the Wright Brothers and how they followed the above illustrated "Golden Circle". The following lines describe it, 

@@ -3,7 +3,6 @@ layout: post
 title: Things to Know Before Buying a Cycle in India
 published: true
 description: A guideline for a buyer who is planning to buy a cycle from India. Tips on choosing the type of cycle based on the buyer's need.
-picture: http://cdn-simplyblog.rhcloud.com/uploads/big/70e844cbdab5a1d1b9236437090b7608.png
 keywords: amateur, cycle, buy, india, online, road bike, hybrid, mtb, workout, commute, office
 tags: random
 disqus:	y
@@ -18,7 +17,7 @@ share: y
 
 **Mindset of the buyer**
 
-<center><img src="http://cdn-simplyblog.rhcloud.com/uploads/big/209820cc595af03a2150be24498ab9cd.jpg" alt="Choosing a bike" /></center>
+<center><img src="https://lh3.googleusercontent.com/u/0/d/0BwzDnRSrxRoaZEo1dHJFUkRhNjQ=s1600-k-iv1" alt="Choosing a bike" /></center>
 <center><b class="small"><a href="http://uk.complex.com/sports/2014/06/buying-your-first-road-bike/">Photo Credit</a></b></center>
 
 Now this is what we have to discuss. The answer varies from person to person. I have amassed some of the typical cases.
