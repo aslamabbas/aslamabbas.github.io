@@ -3,7 +3,6 @@ layout: post
 title: An Intro to Cloud
 published: false
 description: Understand what the Cloud is at its most abstract level and in the simplest terms.
-picture: http://cdn-simplyblog.rhcloud.com/uploads/big/d56ef532c24793c3fdef9dfe595d942c.png
 keywords: cloud, saas, paas, iaas, newbie, beginner, openstack, openshift, introduction, learn
 tags: tech
 disqus:	y
