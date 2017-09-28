@@ -52,6 +52,11 @@ If you are buying online, you will definitely get better discounts. But there ar
 
 > Look closely at the cranks. In the front, you will probably see 3 cranks. The front [barrel adjuster](http://www.axiomgear.com/news/wp-content/uploads/2010/11/DSC5642.jpg) on the handle will also show the numbers, 1, 2 and 3. Similarly, the back gear cassettes will come to the count of 7. You can check the back barrel adjuster to confirm. So you have a total of 7 x 3 = 21 gear combinations. Four times that of a car huh!. If your cycle is 14 speed, then you probably have only 2 cranks in the front. 
 
++	*Q:* What else should I know about a cycle?
+
+> That question requires a separate blog page of it's own. Read this article from [Livingit](https://www.iamlivingit.com/cycling/bike-anatomy). They have done a pretty job explaining the anatomy of cycle. It is a 5 minute read.
+
+
 +	*Q:* If I am buying a geared cycle, how many gears should I buy?
 
 > The first thing anyone will do when riding a geared bike for the first time will be playing with the gears. Trying to understand the shifting mechanisms and a suitable combination for his/her legs. To be honest, this question cannot be answered technically. So people buy a 14 speed and later switch to 21 speed. The reverse also happens. Some customize it and throw away gears that they don't use, to decrease the weight of the cycle. 
