@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Higher Studies: a failed plan
+title: When the plan for higher studies fails!
 published: false
-categories:
+description: 
+keywords:
+tags: life
+disqus: y
+share: y
 ---
 

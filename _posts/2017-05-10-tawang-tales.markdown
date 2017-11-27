@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A 7 day trip to the Ever-Serene Tawang by 7 people
+title: A 7 day trip to the Serenely Tawang by 7 people
 published: false
 description: A real story of our 7-day trip to Tawang
 keywords: Tawang, Dirang, Bomdilla, Bhalukpong, Bum La Pass, China, Tourist, travel, zoomcar, north-east, India, 7 day trip to Tawang, Tawang Travelogue
@@ -34,7 +34,7 @@ Now the next crucial element of the trip, the instrument of transport. It was **
 
 ---
 
-**Day Zero- Apr 28, 2017**
+**Day Zero - Apr 28, 2017**
 
 Did I forget to mention the **Inner Line Permit** (ILP)? I guess I did. ILP is mandatory in many places in north-east. Because these are border areas with a lot of army presence. I read in some [blogs](https://thelazytravellersnews.wordpress.com/2015/05/24/arunchal-pradesh-tawang-darshan-inner-line-permit-and-Bum La-pass-process/) that getting them offline in the Guwahati office can be a bit of a hassle. So we opted for the [online](http://arunachalilp.com/) application. The online application costs 100 INR per head and the offline only 10 INR. It takes a few days, but you will get it. Additional to the ILP, we also took a copy of an ID-proof. 
 
@@ -287,4 +287,64 @@ I woke up early. Appu was also awake. While the others were getting ready, we de
 
 Appu was the one driving and he noticed that there was a squeaking sound whenever he applied the brakes. We stopped the Scorpio and took a good look. We couldn't find anything. We made a note to check it out later. It was my turn to take the helm. The road had become a bit more worse. When we had arrived in Tawang, it was in the pitch of the night and we hadn't seen anything. Now everything was very clear. On the way to Sela Pass, two men on the road, asked for a lift. They seemed like army men. So I stopped and they hopped in. They turned to be very friendly people. They just wanted to get the army station down the road. I was driving and couldn't hear the entire conversation. I just remember that they didn't stop talking.
 
-We asked him, if there was a workshop around so that we could get the Scorpio checked. He said there is one at the army station. He could ask the mechanic there to have a look. We felt a sigh of relief. In half an hour, we reached their camp. I remembered this place from our onward journey. It was completely closed with no lights on. Now it was alive with people. The army personnel asked us to park the Scorpio and accompany him. Sajeev and I went with him to their rooms. It kind of reminded me of our hostel. It was like a dormitory setup. There were two officers chopping the vegetables and chopping something. They were laughing over a joke when we entered the room. I actually expected a tough atmosphere inside the camp. But honestly it was very welcoming. All the officers addressed each other by "Sir" irrespective od age or rank.
+We asked him, if there was a workshop around so that we could get the Scorpio checked. He said there is one at the army station. He could ask the mechanic there to have a look. We felt a sigh of relief. In half an hour, we reached their camp. I remembered this place from our onward journey. It was completely closed with no lights on. Now it was alive with people. The army personnel asked us to park the Scorpio and accompany him. Sajeev and I went with him to their rooms. It kind of reminded me of our hostel. It was like a dormitory setup. There were two officers chopping the vegetables and chopping something. They were laughing over a joke when we entered the room. I actually expected a tough atmosphere inside the camp. But honestly it was very welcoming. All the officers addressed each other by "Sir" irrespective of age or rank. To my surprise, they even greeted us as "Sirs". They introduced me to an officer from Andhra. We spoke of the sound issue to him. He was the mechanic for all purposes. He mainly looked after gypsies and army trucks. He asked me to drive the scorpio and apply the brakes infront of him. He nodded his head as though he deduced what the issue was. He bent down near the front tyres and touched each of them. Problem detected! The disk of the right front tyre was insanely hot. Something to do with the brakepads.
+
+We took out the jackey from the Scorpio and the Andhra officer started removing the tyre bolts. He loosened up the brakepads and showed us that the hydralic piston responsible for the brakes was not retracting properly. It was in constant contact with the disk. This was beacuse the brakeplates had been completely damaged from wear and tear. This was very bad news for us. We stared at each other, thinking what we should do. The army officer to whom we gave the lift made a suggestion to the Andhra officer.
+
+_"Why don't we replace the brakeplates for them? Use for our existing supplies or use something from the gypsies here?"_
+
+The Andhra officer disagreed. _"We can't do that. Also I am not sure if the brake plates from them will fit this one."_
+
+Then he took a look at us and said. _"Where are you guys going today?"_
+
+_"Dirang"_ I replied.
+
+_"Ok. Then it shouldn't be a big issue. Just drive slow. There are workshops there. You can easily replace the plates there. Okay? Don't worry!"_
+
+That was a good answer for the time being. The Andhra officer applied a lot of grease to reduce the heating. We tried to pay the officer for his service, but he declined right away. He reminded us that, it is their duty to help people like us. So we said our thanks and left the camp. It was a good thing that we gave lift to the army men, otherwise, we would have continued the journey without realising the issue. If the disk had heated up any further, it would have caused the tyre to expand and burst. Now all we had to do was drive slow, but still reach Dirang before evening. The time was only 11:00 am and we had roughly 70 kilometers to go. 
+
+We reached Sela pass and decided to take our lunch in the Prahari Cafteria. It's maintained by the army. While we were waiting for the food to arrive, we saw a bunch of bike riders arrive. We had seen them earlier. Only now did we see the complete group. They were dressed up in complete riding gear. Some of them had the GoPro camera mounted and interestingly all of them rode the Mahindra Mojo bike. I asked them if it was a sponsored trip. It wasn't. They were part of a bike club and they really liked the new Mojo. A few members of the group were from Kerala. It was a visual treat to wath the bikers ride in unison. 
+
+
+We changed drivers and drove on, very cautiously. It was 1:00 pm. Still there was a lot of fog around. We stopped the Scorpio from time to time to make sure that disk was not overheated. As we were approaching we saw another army camp by the name, "Serang Warriors". We could see a propper workshop there with a few mechanics around. We stopped the Scorpio and inquired the matter with a the fellow soldier. He asked us to wait and brought in a group of 4 army men. We said the same story again. The sound, how the Andhra officer helped us and why we must find replacement plates and so on. There was a Bihari officer among the group. He got excited. He said,
+
+_"Let me have a look."_
+
+_"Sure."_ I gave him the key and he started to do the same things that the Andhra officer did. One of the four officers was a Malayali. It's always a happy feeling to talk to some one in your mother tongue. I told him, if the plates can't be replaced then all this work is pointless. The Malayali officer smiled.
+
+_"It's fine. Let him have a look. Actually, there is not much work here. So let him just do something for a change"_
+
+We just giggled.
+
+_"So what's life like here? Do you guys have to the border camps as well?"_
+
+_"It depends. Just last month there was firing from the Chinese side. So all of us were summoned. Such issues can happen. Otherwise we just move from camp to camp."_
+
+_"I see. It must be nice right? Getting to stay in these places."_
+
+_"Haha. That's for you guys. You are here for one day or one week. We have been here for the last three years. It can get very cold here. Life is not easy."_
+
+By this time, the Bihari officer had already setup the jackey and removed the front tyres for a complete check up. We had some hope in him. At least the workshop here looked much bigger and must have some spare parts. Half an hour passed by. The officers were discussing something and they came to us and said,
+
+_"Look the issue is the brakeplates. They have to be changed."_
+
+I nodded my head in agreement.
+
+_"But the problem is we cannot use the parts of army vehicles on yours. That will get us in trouble. So what you need to do is reach Dirang by 4:00 pm and find a workshop"_
+
+So we literally wasted half an hour just to hear his diagnosis. But it just goes to prove that the Army is always ready to help the civilians. So off we went to Dirang. It was 2:00 pm already and 40 more kilometers to go. The condition of the road was getting was worse. Plus there was incoming traffic, which made our movement slow. There was this moment, where we stopped to let a honking truck pass through and out in the ridges we saw army men hiking their way to the top with the their full gear. They had huge hiking bags on, war paint on their faces, the caps, guns, grenades, it was the real deal! Hiking with all these gear is really tough. It gave us a taste of what army training can look in real life.
+
+Obivuosly, our plan to drop in Sangti valley and visit the apple orchards was dropped. The first priority was getting the Scorpio to a workshop. But we still got to see Sangti Valley in all its gloy along the way. The grassy meadows, rocky rivers and small huts spread out in the valley looked just like one of my wallpapers. Finally we reached Dirang by 4:30 pm and found a workshop at the end. There were a lot of cars there. It seemed like it was the only workshop in the area. We bought a fresh set of brake plates for Rs. 2300. We had made a call to Zoom Car customer service to ensure that this money will be refunded. 
+
+Dirang was a small town compared to Tawang. We asked around for the way to apple orchards. They said there is no point going there because it is off season. We decided we will go to Bomdilla for the night. We found a small hotel, where they said they serve fish. So while we were waiting for the Scorpio to get serviced, we take our supper. There was rice, dal, vegetables and fish fry. It was really nice. This meal was very close to our Kerala style meal. When you eat good food, all your worries will just get sidelined for sometime. It was a pleasant feeling. Now all we had to reach was Bomdilla. There was nearly 45 kilometers to cover and it was already dark. We didn't mind that. Kartha took the driver's seat. And all of us tried to get some sleep. The squeaking sound had gone away. That was good relief. 
+
+I rememmbered this road to Bomdialla very well. I was the one who drove this road when we goint to Tawang. There was a lot of construction activity on the road. A large part of it was in a complete mess. I suggested Kartha to keep a good eye. He also remembered it. As we were driving the clouds of fog began to get more dense. Pretty soon, the fog became so thick and we had zero visibility. We were literally blinded. Kartha drove very slowly. We couldn't stop because it was in the middle of nowwhere. All of us woke up, trying to get a sense of the road ahead of us. 
+
+This was the hardest part of the journey. Holes on the road would appear in an instant and there were hairpins that we didn't see coming at all. Kartha did a good job driving through these conditions. Then suddenly there was a lot of honking from the back. It was a Maruthi 800. We had closed all the window panes beacuse it was too cold outisde for us. The guys in the Maruthi were local boys. They knew the road well. They put on some loud music, danced with their hands outside the car and zoomed past us. _"They must be mad. Probabably under drnks"_, someone said. We just saw them for a few seconds and they dissaperaed into the fog. We never saw them again!
+
+Finally the fog began to fade and town lights started to appear. It was Bomdilla. It took us 2 hours to make it from Dirang. Even though it was just 8:00 pm, the whole town had gone to sleep. Not a single human in sight. We drove around looking for hotels. After some roaming around, we found one, Pancheng Hotel. This one was a bit expensive, but it was the only option available to us. We took two rooms and settled for the night. I mentioned to the caretaker that we would be leaving early and that we need to have breakfast very early. He agreed and said _"Everything will be ready"_.
+
+---
+
+**Day Six - May 04, 2017**
+
