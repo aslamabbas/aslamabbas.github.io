@@ -1,16 +1,13 @@
 title:            aslam abbas | blogger | thinker | observer
 description:      Aslam Abbas writes stuff on technology, ideas, cycling, people and so on. You can read the articles written by Aslam Abbas. Comment on them and start interacting with Aslam Abbas. Do enjoy your reads at aslamabbas.com. Feel free to get in touch with Aslam Abbas.
 url:              http://aslamabbas.com
-signoff:          aslamabbas
+signoff:          aslam abbas
 
 links:
   - name:         all-posts
     url:          /
   - name:         about
     url:          /about
-  - name:         subscribe
-    url:          http://aslamabbas.com/feed.xml
-    external:     true
   - name:         search
     url:          /search    
  
