@@ -84,4 +84,54 @@ If you are buying online, you will definitely get better discounts. But there ar
 + 	For [long distance](https://www.facebook.com/groups/484764288212276/) cyclists. 
 
 
-Wish you all the best! Reach out, if you need any help.
+Wish you all the best!
+
+
+**Updated Feb 2018***
+
+There has been an outpour of comments asking me to suggest a bike for them and related accessories. These days I don't have much time to respond to these queries. Therefore I am listing a few bikes and items that you can buy online, in different categories. There are better cycles out there, I am simply trying to narrow down your search.
+
+MTB Category: For mountain trails and exploring offroads.
+
+- [Roulik Tangent](http://amzn.to/2C9gp0L), Price 25,000 INR
+- [Giant Rincon](http://amzn.to/2GxsRW9), Price 24,000 INR
+- [Btwin Rockrider 340](http://amzn.to/2HzsSKt), Price 18,000 INR
+- [Montra Rock](http://amzn.to/2HzpPBT), Price 17,500 INR
+- [Montra Helicon](http://amzn.to/2HzGJ3g), Price 17,000 INR
+- [Montra Downtown](http://amzn.to/2EGNOgS), Price 14,000 INR
+- [Btwin Women's MTB](http://amzn.to/2CacOiR), Price 13,000 INR
+
+Fat Bike Category: For fun and fitness.
+
+- [Montra Big Boy](http://amzn.to/2CbfAoa), Price 26,000 INR
+- [Roulik Avalanche](http://amzn.to/2ogkF5X), Price 23,000 INR
+
+Hybrid/City Category: For office purposes and city use.
+
+- [Giant Escape](http://amzn.to/2sIJ2xU), Price 45,000 INR
+- [Btwin Riverside](http://amzn.to/2GyBnUX), Price 32,000 INR
+- [LA Soverign Single Speed](http://amzn.to/2EHNSwZ), Price 18,000 INR
+- [LA Soverign Hybrid](http://amzn.to/2okmzBy), Price 14,000 INR
+- [Btwin My White](http://amzn.to/2HzWOpN), Price 7,500 INR
+
+Road Bike Category: For the thrill called speed.
+
+- [Btwin Triban 500](http://amzn.to/2ogLdnu), Price 60,000 INR
+- [Montra Unplugged](http://amzn.to/2HzsH1D), Price 26,000 INR
+
+E-bike Category: Didn't why I should list this, but I listed anyway.
+
+- [E-cycle](http://amzn.to/2sInEZx) from Being Human, Price 60,000 INR
+
+Accessories:
+
+- [Helmet](http://amzn.to/2CcMmFh), Price 800 INR
+- [Face Mask](http://amzn.to/2FiJ7e6), Price 280 INR
+- [Cycling Shorts](http://amzn.to/2FiA7Wq), Price 800 INR
+- [Fluorscent Vest](http://amzn.to/2FjErEJ), Price 300 INR
+- [Mobile Holder with Charger](http://amzn.to/2CcMIMn), Price 600 INR
+- [Tail Lamp](http://amzn.to/2FlF54A), Price 200 INR
+- [Front Lamp](http://amzn.to/2HAXNWS), Price 300 INR
+- [Odometer](http://amzn.to/2FlFwfe), Price 300 INR
+
+I really hope this helps your search for your bike.
