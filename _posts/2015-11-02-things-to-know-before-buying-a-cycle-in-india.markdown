@@ -9,6 +9,10 @@ disqus:	y
 share: y
 ---
 
+**Updates***
+
+_Added a list of bikes to that you can buy at the end of the post!_
+
 **Audience**
 
 -   People who have decided to give cycling a try.
