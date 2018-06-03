@@ -6,8 +6,6 @@ signoff:          aslam abbas
 links:
   - name:         all-posts
     url:          /
-  - name:         about
-    url:          /about
   - name:         search
     url:          /search    
  
