@@ -43,7 +43,7 @@ I did not pose for this photo. No, I didn't. I was busy taking down notes of the
 ---
 
 **4. Bali Pose**
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1d0Y1aEFsRwzKPRIjTFF0MqrJzveSex17=s1600-k-iv1" alt="shyjal posing in the ocean" /></center>
+<center><img src="https://lh3.googleusercontent.com/u/0/d/1kIMY3MZ8fDkVeh3Vzuzm8VhzKwZkFhGs=w1440-h821-iv1" alt="shyjal posing in the ocean" /></center>
 
 He did pose for this one. This is taken from Pandawa Beach. You can see how shallow the ocean is and in the distance, the waves are just gliding over. They only come close to the sandy beach at high tides. This makes it easy for us to walk for long distances. The place where you walk may have sharp objects. So you have to be careful about that. But it's a unique experience you won't get in the other beaches of Bali.
 
@@ -309,7 +309,7 @@ If you look closely, you will see tiny dots on the surface of the ocean. Surfers
 **36. A Temple in the Middle of the Ocean**
 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1xgG74-_ovsJdSUNKT_KWIqnpTr7yUZzA=s1600-k-iv1" alt="" /></center>
+<center><img src="https://lh3.googleusercontent.com/u/0/d/1bmcUIZvkdhfAl6dtJo-XxPwYw60Tv-gc=w1440-h521-iv1" alt="" /></center>
 
 Tanah Lot is amazing. It's a temple situated on rocky formations way into the ocean. When the tide rises, you can't go to this place, because the pathways are submerged. It's a pretty crowded tourist spot and the best time to visit is close to sunset. You can't enter the temple unless you are a devotee. 
 
@@ -350,9 +350,9 @@ This is one of the largest lakes in Bali. The highway is built around it. It ris
 
 ---
 
-**41. Where is the Waterfall**
+**41. Waterfall inside a Cave**
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1_pUBotd7Onfaeinj1NbhMJ9FXmW4OYti=s1600-k-iv1" alt="" /></center>
+<center><img src="https://lh3.googleusercontent.com/u/0/d/1BDNqh5Zpx7VruGTzViE2jt6R8OaE5kLS" alt="" /></center>
 
 There is a waterfall called Tukad Cepung which is inside a cave. It's a jungly experience. You have to walk along a trail for a few kilometers and take a steep stairway. You will be able to hear the rumbling sound of the fall, but will not able it to see from the top. The cavern takes its narrow twists and slowly opens up. It keeps the surprise going till the last moment. The light seeps through the jungle above into the cave, shining on the waterfall and that is a sight to savour.
 
