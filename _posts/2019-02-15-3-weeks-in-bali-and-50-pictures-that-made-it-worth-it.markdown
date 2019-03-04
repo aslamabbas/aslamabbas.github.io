@@ -12,7 +12,7 @@ share: y
 
 ### 24th April to May 16th, 2018
 
-Seems like a long time ago. I and [Shyjal](https://twitter.com/shyjal) visited [Bali](https://www.google.co.in/destination?q=Bali) in Indonesia. It was a vacation plus "work-whenever-possible" kind of a trip. A lot of things happened that made the trip memorable to me. Writing about all of them down would be insane. Let me share the story of our journey in 50 photos in no particular order.
+Seems like a long time ago. I and [Shyjal](https://shyjal.com/) visited [Bali](https://www.google.co.in/destination?q=Bali) in Indonesia. It was a vacation plus "work-whenever-possible" kind of a trip. A lot of things happened that made the trip memorable to me. Writing about all of them down would be insane. Let me share the story of our journey in 50 photos in no particular order.
 
 ---
 
