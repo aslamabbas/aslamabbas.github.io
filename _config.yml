@@ -7,7 +7,9 @@ links:
   - name:         all-posts
     url:          /
   - name:         search
-    url:          /search    
+    url:          /search
+  - name:         contact
+    url:          /about
  
 highlighter:      rouge
 permalink:        pretty
