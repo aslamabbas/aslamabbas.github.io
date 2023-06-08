@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Elon Musk, the World's Greatest Entrepreneur?
-published: true
+published: false
 description: A peek into the life of Elon Musk. What makes him a great entreprenuer and what we can learn from him.
 keywords: Elon Musk, SpaceX, Tesla Motors, Zip2, Entrepreneur, NASA
 tags: people

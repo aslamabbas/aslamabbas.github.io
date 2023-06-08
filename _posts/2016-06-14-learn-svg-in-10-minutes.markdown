@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learn SVG basics in 10 minutes
-published: true
+published: false
 description: Understand what is an SVG, how to make one and what are its components
 keywords: svg, learn, animation, html, css, newbie, part, rectangle, circle, polyline, polygon
 tags: tech

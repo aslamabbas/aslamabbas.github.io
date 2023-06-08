@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fan-Knob inspired Water-Tap
-published: true
+published: false
 description: An innovative idea for a faucet that can control water usage. Inspired by the Fan knob regulator.
 keywords: fan, faucet, water, tap, conservation, water, design
 tags: ideas
