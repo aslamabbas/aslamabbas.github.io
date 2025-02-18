@@ -1,3 +1,7 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;600&display=swap');
+@import url('https://fonts.cdnfonts.com/css/banchero');
+
 h1, h2, h3, h4, h5, strong, b {
   font-weight: 600; }
 
@@ -5,12 +9,14 @@ html, body {
   height: 100%; }
 
 body {
-  background: #f9f9f9;
+  background: 
+    linear-gradient(32deg, rgba(120, 173, 238, 0.345), rgba(0,0,0,0)),
+    url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='4.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
   color: #303030;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Crimson Pro', serif;
   font-weight: 400;
-  font-size: 13px;
-  line-height: 19px;
+  font-size: 17px;
+  line-height: 1.6;
   padding: 0;
   margin: 0; }
   body, body * {
@@ -76,28 +82,155 @@ blockquote {
   font-style: normal !important; }
 
 header {
-  text-align: center; }
+  text-align: left;
+  padding: 50px 40px 40px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  width: 520px;
+  margin: 30px auto;
+  position: relative;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin: 0 auto;
+}
+
+#header-image {
+  display: block;
+  margin: 0;
+}
+
+#header-image img {
+  width: 95px;
+  height: 95px;
+  border-radius: 50%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.15);
+}
+
+#header-image:hover img {
+  transform: scale(1.05);
+}
+
+.title-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.site-title {
+  font-family: 'Banchero', sans-serif;
+  font-size: 2.24em;
+  margin: 0;
+  color: #333;
+  font-weight: normal;
+  line-height: 1.2;
+  text-transform: lowercase;
+}
+
+.site-slogan {
+  font-family: 'Crimson Pro', serif;
+  font-size: 0.85em;
+  margin: 0;
+  color: #fff;
+  font-style: normal;
+  text-transform: lowercase;
+  letter-spacing: 0.5px;
+  background: #222;
+  padding: 3px 10px;
+  border-radius: 3px;
+  display: inline-flex;
+  width: fit-content;
+  white-space: nowrap;
+  position: absolute;
+  bottom: 15px;
+  right: 40px;
+  overflow: hidden;
+  border-right: 2px solid #222;
+  animation: typing 2s steps(30, end), blink-caret 0.5s step-end 4;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: fit-content }
+}
+
+@keyframes blink-caret {
+  from, to { border-right-color: transparent }
+  50% { border-right-color: #fff }
+}
+
+.header-social-links {
+  display: flex;
+  gap: 15px;
+  margin-top: 5px;
+}
+
+.header-social-links a {
+  color: #333;
+  font-size: 18px;
+  transition: all 0.3s ease;
+  opacity: 0.7;
+}
+
+.header-social-links a:hover {
+  opacity: 1;
+  transform: translateY(-2px);
+}
 
 footer {
-  width: 100%;
-  max-width: 800px;
-  line-height: 2em;
-  margin: auto;
-  padding-bottom: 30px;
-  text-align: center; }
-  footer * {
-    color: #797979; }
+  padding: 30px 0;
+  text-align: center;
+  margin-top: auto;
+}
+
+.quote-box {
+  width: 520px;
+  margin: 0 auto;
+  padding: 30px 40px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.quote-text {
+  margin: 0;
+  color: #666;
+  font-style: italic;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+}
+
+.social-links a {
+  color: #333;
+  font-size: 22px;
+  transition: all 0.3s ease;
+  opacity: 0.7;
+}
+
+.social-links a:hover {
+  opacity: 1;
+  transform: translateY(-2px);
+}
 
 #container {
   *zoom: 1;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  width: 100%;
-  max-width: 800px;
+  width: 600px;
   background: #fff;
   margin: 40px auto 20px;
-  border-radius: 7px;
+  border-radius: 8px;
   border: 1px solid #eee;
   position: relative; }
   #container:before, #container:after {
@@ -142,7 +275,7 @@ footer {
   width: 100%;
   border-width: 0;
   border-style: solid;
-  padding: 30px 60px;
+  padding: 30px 40px;
   margin: auto; }
 
 a, .as-link {
@@ -363,3 +496,13 @@ img {
   margin-left: -540px; }
 .paging .right {
   margin-left: 520px; }
+
+.title-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.title-link:hover {
+  color: inherit;
+  background: none;
+}
