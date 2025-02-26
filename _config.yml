@@ -6,13 +6,11 @@ signoff:          aslam abbas
 links:
   - name:         all-posts
     url:          /
-  - name:         search
-    url:          /search
-  - name:         contact
+  - name:         about
     url:          /about
  
 highlighter:      rouge
 permalink:        pretty
 markdown:         kramdown
-gems:
+plugins:
   - jekyll-sitemap
