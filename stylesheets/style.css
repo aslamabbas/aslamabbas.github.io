@@ -1,14 +1,15 @@
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css');
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&family=Open+Sans:wght@400;600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap');
-@import url('https://fonts.cdnfonts.com/css/coliner');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');@import url('https://fonts.cdnfonts.com/css/coliner');
 @import url('https://fonts.cdnfonts.com/css/micuale');
 @import url('https://fonts.cdnfonts.com/css/banchero');
+@import url('https://fonts.cdnfonts.com/css/simply-kind');
+@import url('https://fonts.cdnfonts.com/css/jalibar');
+
 
 h1, h2, h3, h4, h5, strong, b {
   font-weight: 600;
-  font-family: 'Nunito Sans', 'Open Sans', sans-serif;
+  font-family: 'Abril Fatface', serif;
 }
 
 html, body {
@@ -16,8 +17,8 @@ html, body {
 
 :root {
   --primary-light: #8abdff;
-  --primary: #6d5dfc;
-  --primary-dark: #5b0eeb;
+  --primary: #5a93f5;
+  --primary-dark: #033fa6;
   --white: #fff;
   --greyLight-1: #e4ebf5;
   --greyLight-2: #c8d0e7;
@@ -41,9 +42,9 @@ html {
 body {
   background: var(--greyLight-1);
   color: #303030;
-  font-family: 'Nunito Sans', 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
-  font-size: 17px;
+  font-size: 14px;
   line-height: 1.6;
   padding: 0;
   margin: 0; }
@@ -113,7 +114,7 @@ header {
   text-align: left;
   padding: 50px 40px 40px;
   background: var(--greyLight-1);
-  border-radius: 8px;
+  border-radius: 20px;
   box-shadow: 0.8rem 0.8rem 1.4rem var(--greyLight-2), -0.2rem -0.2rem 1.8rem var(--white);
   width: 600px;
   margin: 30px auto;
@@ -128,21 +129,26 @@ header {
 }
 
 #header-image {
-  display: block;
-  margin: 0;
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: 0.3rem 0.3rem 0.6rem var(--greyLight-2), -0.2rem -0.2rem 0.5rem var(--white);
+  padding: 8px;
+  transition: transform 0.5s ease, filter 0.3s ease-in;
+  filter: grayscale(95%);
 }
 
 #header-image img {
-  width: 95px;
-  height: 95px;
+  width: 100%;
+  height: 100%;
   border-radius: 50%;
-  object-fit: cover;
   transition: transform 0.3s ease;
-  box-shadow: 0.3rem 0.3rem 0.6rem var(--greyLight-2), -0.2rem -0.2rem 0.5rem var(--white);
 }
 
-#header-image:hover img {
-  transform: scale(1.05);
+#header-image:hover {
+  transform: scale(1.02);
+  filter: grayscale(0%);
 }
 
 .title-container {
@@ -152,10 +158,10 @@ header {
 }
 
 .site-title {
-  font-family: 'Nunito Sans', 'Open Sans', sans-serif;
-  font-size: 2.24em;
+  font-family: 'Simply Kind';
+  color: #586892;
+  font-size: 50px;
   margin: 0;
-  color: #525e7d;
   font-weight: normal;
   line-height: 1.2;
   text-transform: lowercase;
@@ -180,7 +186,7 @@ header {
 }
 
 .header-social-links a {
-  font-family: 'Nunito Sans', 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
   width: 4rem;
   height: 4rem;
   border-radius: 50%;
@@ -209,20 +215,12 @@ footer {
   margin-top: auto;
 }
 
-.quote-box {
-  width: 520px;
-  margin: 0 auto;
-  padding: 30px 40px;
-  background: var(--greyLight-1);
-  border-radius: 8px;
-  box-shadow: 0.8rem 0.8rem 1.4rem var(--greyLight-2), -0.2rem -0.2rem 1.8rem var(--white);
-}
-
-.quote-text {
-  font-family: 'Nunito Sans', 'Open Sans', sans-serif;
-  margin: 0;
+.footer-text {
+  font-family: 'Poppins', sans-serif;
+  font-size: 12px;
   color: #666;
-  font-style: italic;
+  margin: 0;
+  padding: 0;
 }
 
 .social-links {
@@ -251,7 +249,7 @@ footer {
   width: 600px;
   background: var(--greyLight-1);
   margin: 40px auto 20px;
-  border-radius: 8px;
+  border-radius: 20px;
   box-shadow: 0.8rem 0.8rem 1.4rem var(--greyLight-2), -0.2rem -0.2rem 1.8rem var(--white);
   position: relative; }
   #container:before, #container:after {
@@ -316,77 +314,6 @@ a {
     transition: color 0.3s; 
   }
 
-  /*
-a, .as-link {
-  text-decoration: none;
-  color: #269;
-  line-height: 1.4em;
-  display: inline-block;
-  vertical-align: baseline;
-  zoom: 1;
-  *display: inline;
-  *vertical-align: auto;
-  -webkit-transition: color 0.3s;
-  -moz-transition: color 0.3s;
-  -ms-transition: color 0.3s;
-  -o-transition: color 0.3s;
-  transition: color 0.3s; }
-  a.main, a:hover, .as-link.main, .as-link:hover {
-    color: #1d5884;
-    background-image: url(https://lh3.googleusercontent.com/u/0/d/0BwzDnRSrxRoaMXl1VTlUbC1McE0=s1600-k-iv1);
-    background-repeat: repeat-x;
-    background-position: left bottom; }
-  a.big-button, .as-link.big-button {
-    min-width: 30%;
-    border-radius: 3px;
-    -webkit-transition: all, 0.2s;
-    -moz-transition: all, 0.2s;
-    -ms-transition: all, 0.2s;
-    -o-transition: all, 0.2s;
-    transition: all, 0.2s;
-    color: #fff;
-    cursor: pointer;
-    font-size: 12px;
-    line-height: 24px;
-    padding: 8px 17px;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    font-weight: bold;
-    display: block;
-    text-align: center;
-    border-width: 0;
-    border-style: solid;
-    border-color: #8ab;
-    background: #6f8f9f;
-    box-shadow: inset 0 -1px 0px rgba(0, 0, 0, 0.1); }
-    a.big-button:hover, .as-link.big-button:hover {
-      background: #608090; }
-    a.big-button:active, .as-link.big-button:active {
-      box-shadow: inset 0 1px 0px rgba(0, 0, 0, 0.1); }
-    a.big-button.red, .as-link.big-button.red {
-      border-color: #ddacac;
-      background: #a65; }
-      a.big-button.red:hover, .as-link.big-button.red:hover {
-        background: #b76; }
-    a.big-button.gray, .as-link.big-button.gray {
-      border-color: #f4f4f4;
-      color: #ffffff;
-      background: #565656; }
-      a.big-button.gray:hover, .as-link.big-button.gray:hover {
-        background: #676767; }
-    a.big-button.blue, .as-link.big-button.blue {
-      border-color: #ace;
-      background: #678; }
-      a.big-button.blue:hover, .as-link.big-button.blue:hover {
-        background: #789; }
-    a.big-button.green, .as-link.big-button.green {
-      border-color: #ddeed0;
-      background: #696; }
-      a.big-button.green:hover, .as-link.big-button.green:hover {
-        background: #797; }
-
-*/
-
 hr {
   border: 0;
   border-bottom: 1px dotted #CCC;
@@ -396,8 +323,25 @@ ul.posts, ul.posts li {
   margin: 0;
   padding: 0;
   list-style: none; }
+
 ul.posts li {
-  margin-bottom: 20px; }
+  margin-bottom: 20px;
+  padding: 8px 15px;
+  border-radius: 15px;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  position: relative;
+  overflow: hidden; 
+}
+
+ul.posts li:hover {
+  padding: 8px 15px;
+  /* font-weight: 600; */
+  transform: translateX(4px);
+  box-shadow: 
+      3px 3px 6px rgba(166, 180, 200, 0.7),
+      -3px -3px 6px rgba(255, 255, 255, 0.8);
+}
+
 ul.posts .datetime {
   display: inline-block;
   vertical-align: baseline;
@@ -539,8 +483,9 @@ img {
   margin-left: 520px; }
 
 .title-link {
-  font-family: 'Nunito Sans', 'Open Sans', sans-serif;
-  color: inherit;
+  font-family: 'Simply Kind';
+  color: #586892;
+  font-size: 50px;
   text-decoration: none;
 }
 
