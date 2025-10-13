@@ -1,15 +1,12 @@
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css');
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');@import url('https://fonts.cdnfonts.com/css/coliner');
-@import url('https://fonts.cdnfonts.com/css/micuale');
-@import url('https://fonts.cdnfonts.com/css/banchero');
 @import url('https://fonts.cdnfonts.com/css/simply-kind');
-@import url('https://fonts.cdnfonts.com/css/jalibar');
+
 
 
 h1, h2, h3, h4, h5, strong, b {
   font-weight: 600;
-  font-family: 'Abril Fatface', serif;
+  font-family: 'Poppins', serif;
 }
 
 html, body {
@@ -134,7 +131,6 @@ header {
   border-radius: 50%;
   overflow: hidden;
   box-shadow: 0.3rem 0.3rem 0.6rem var(--greyLight-2), -0.2rem -0.2rem 0.5rem var(--white);
-  padding: 8px;
   transition: transform 0.5s ease, filter 0.3s ease-in;
   filter: grayscale(95%);
 }
@@ -164,6 +160,7 @@ header {
   margin: 0;
   font-weight: normal;
   line-height: 1.2;
+  font-size: 50px;
   text-transform: lowercase;
 }
 
@@ -257,35 +254,62 @@ footer {
     display: table; }
   #container:after {
     clear: both; }
-  #container .block {
-    border-top: 1px solid #efefef;
-    border-bottom: 1px solid #efefef;
-    padding: 30px 40px 24px;
-    text-align: center; }
-    #container .block:first-child, #container .block + .block {
-      border-top: 0; }
-    #container .block:last-child {
-      border-bottom: 0; }
-    #container .block a.main {
-      display: inline-block;
-      vertical-align: baseline;
-      zoom: 1;
-      *display: inline;
-      *vertical-align: auto;
-      padding: 2px 2px;
-      margin-right: 12px;
-      margin-bottom: 6px; }
-      #container .block a.main:last-of-type {
-        margin-right: 0; }
-    #container .block .button {
-      display: inline-block;
-      vertical-align: baseline;
-      zoom: 1;
-      *display: inline;
-      *vertical-align: auto;
-      height: 20px;
-      overflow: hidden; }
 
+  /* Block Styling */
+#container .block {
+  border-top: 1px solid #efefef;
+  border-bottom: 1px solid #efefef;
+  padding: 30px 40px 24px;
+  text-align: center;
+}
+
+#container .block:first-child,
+#container .block + .block {
+  border-top: none;
+}
+
+#container .block:last-child {
+  border-bottom: none;
+}
+
+/* Link Styling */
+#container .block a.main {
+  display: inline-block;
+  vertical-align: baseline;
+}
+
+#container .block a.main:last-of-type {
+  margin-right: 0;
+}
+
+/* Button Styling */
+#container .block .button {
+  display: inline-block;
+  vertical-align: baseline;
+  height: 20px;
+  overflow: hidden;
+}
+#container .block a{
+  padding: 5px 5px;
+  margin-right: 12px;
+  margin-bottom: 6px;
+}
+
+#container .block a:hover {
+  padding: 5px 5px;
+  margin-right: 12px;
+  margin-bottom: 6px;
+  border-radius: 10px;
+  position: relative;
+  transform: translateX(1px);
+  transition: all 0.5s ease;
+  box-shadow: 3px 3px 6px rgba(166, 180, 200, 0.7), -3px -3px 6px rgba(255, 255, 255, 0.8);
+}
+#container .block a:active {
+  box-shadow: inset 0.2rem 0.2rem 0.5rem var(--greyLight-2), inset -0.2rem -0.2rem 0.5rem var(--white);
+  color: var(--primary);
+}
+    
 .content {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -316,8 +340,8 @@ a {
 
 hr {
   border: 0;
-  border-bottom: 1px dotted #CCC;
-  margin: 25px 0; }
+  border-bottom: 1px groove #dedede;
+  margin: 25px 60px; }
 
 ul.posts, ul.posts li {
   margin: 0;
@@ -328,18 +352,21 @@ ul.posts li {
   margin-bottom: 20px;
   padding: 8px 15px;
   border-radius: 15px;
-  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  transition: all 0.5s ease;
   position: relative;
   overflow: hidden; 
 }
 
 ul.posts li:hover {
   padding: 8px 15px;
-  /* font-weight: 600; */
-  transform: translateX(4px);
   box-shadow: 
       3px 3px 6px rgba(166, 180, 200, 0.7),
       -3px -3px 6px rgba(255, 255, 255, 0.8);
+}
+
+ul.posts li:active {
+  box-shadow: inset 0.2rem 0.2rem 0.5rem var(--greyLight-2), inset -0.2rem -0.2rem 0.5rem var(--white);
+  color: var(--primary);
 }
 
 ul.posts .datetime {
@@ -366,63 +393,56 @@ section.post {
     margin-left: 20px;
     padding: 0; }
   section.post h1 {
-    text-transform: uppercase;
+    text-transform: math-auto;
     text-align: center;
     line-height: 1.5em;
     margin-bottom: 60px; }
     section.post h1 .date {
-      color: #d0d0d0;
+      color: #8eadcd;
       font-size: 10px; }
   section.post iframe {
     width: 100%; }
+
+.content h3{
+  margin: 10px 0;
+}
+
+
   section.post iframe, section.post img {
-    padding: 0;
-    border-bottom-left-radius: 3px;
-    border-bottom-right-radius: 3px;
-    border-top-left-radius: 3px;
-    border-top-right-radius: 3px; }
+
+    background: #ffffff;
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: 
+        8px 8px 18px rgba(0, 0, 0, 0.15),
+        -8px -8px 18px rgba(255, 255, 255, 0.8);
+    transition: all 0.3s ease;
+  }
 
 section.post, section > p {
   font-size: 14px;
-  line-height: 1.6em; }
+  line-height: 1.8em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+ }
   section.post *, section > p * {
     max-width: 100%; }
   section.post em strong, section > p em strong {
     background-color: #ffffee;
     padding: 0 2px; }
-  section.post blockquote, section > p blockquote {
-    -webkit-transition: all, 0.3s;
-    -moz-transition: all, 0.3s;
-    -ms-transition: all, 0.3s;
-    -o-transition: all, 0.3s;
-    transition: all, 0.3s;
-    color: #606060;
-    background: #f9f9f9;
-    position: relative;
-    overflow: hidden;
-    display: block;
-    padding: 15px 60px; }
-    section.post blockquote:hover, section > p blockquote:hover {
-      color: #454545; }
-    section.post blockquote:hover:before, section > p blockquote:hover:before {
-      color: #b8cec7; }
-    section.post blockquote:before, section > p blockquote:before {
-      left: -3px; }
-    section.post blockquote:after, section > p blockquote:after {
-      right: -2px; }
-    section.post blockquote:before, section.post blockquote:after, section > p blockquote:before, section > p blockquote:after {
-      content: "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^";
-      font-size: 24px;
+
+    section.post blockquote, section > p blockquote {
+      border-radius: 20px;
+      padding: 40px;
+      width: 100%;
+      background: #263c5c;
+      color: whitesmoke;
+      box-shadow: 0.8rem 0.8rem 1.4rem var(--greyLight-2), -0.2rem -0.2rem 1.8rem var(--white);    
+      transition: all 0.5s ease;
+      position: relative;
       overflow: hidden;
-      position: absolute;
-      top: 0px;
-      bottom: 0px;
-      line-height: 0.4em;
-      word-break: break-all;
-      color: #d0dfda;
-      display: block;
-      width: 7px !important;
-      white-space: normal; }
+    }
+
   section.post li .highlight, section > p li .highlight {
     padding: 0 10px; }
   section.post li p, section > p li p {
@@ -485,11 +505,67 @@ img {
 .title-link {
   font-family: 'Simply Kind';
   color: #586892;
-  font-size: 50px;
   text-decoration: none;
 }
 
 .title-link:hover {
   color: inherit;
   background: none;
+}
+
+@media (max-width: 768px) {
+  #container {
+    width: 90%; /* Adjust width for smaller screens */
+    margin: 20px auto; /* Adjust margin for better centering */
+  }
+  
+  #container .block {
+    padding: 20px; /* Adjust padding for smaller screens */
+  }
+
+  header {
+    width: 90%; /* Adjust width for smaller screens */
+    margin: 20px auto; /* Adjust margin for better centering */
+    padding: 20px 40px 20px;
+  }
+
+  .header-container {
+    flex-direction: column; /* Stack items vertically */
+    align-items: center;
+    text-align: center;
+    gap: 0px;
+  }
+
+  #header-image {
+    width: 65px; /* Adjust size for better fit */
+    height: 65px;
+    margin-bottom: 2px; /* Add some space below the image */
+  }
+
+  .title-container {
+    flex-grow: 1; /* Allow title to take up remaining space */
+    margin-bottom: 10px; /* Add some space below the title */
+  }
+
+  .site-title {
+    font-size: 30px; /* Adjust font size for mobile */
+    padding-top: 3px;
+    width: auto; /* Allow width to adjust naturally */
+  }
+
+  .header-social-links {
+    justify-content: center;
+    margin-top: 0; /* Remove top margin */
+  }
+
+  .header-social-links a {
+    width: 3rem;
+    height: 3rem;
+}
+
+section.post blockquote, section > p blockquote {
+  border-radius: 10px;
+  padding: 12px;
+}
+
 }
