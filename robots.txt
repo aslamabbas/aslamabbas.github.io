@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: http://aslamabbas.com/sitemap.xml
+Sitemap: https://aslamabbas.com/sitemap.xml
