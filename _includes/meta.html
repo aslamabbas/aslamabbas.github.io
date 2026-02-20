@@ -1,28 +1,34 @@
-	<meta charset="utf-8"/>
-	<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=yes"/>
-	<meta name="keywords" content="{{ page.keywords | default: site.keywords }}" />
-	<meta name="description" content="{{ page.description | default: site.description }}"/>
-	<meta name="author" content="Aslam Abbas" />
-	<link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}" />
+{% assign meta_title = page.title | default: site.name %}
+{% assign meta_desc = page.description | default: page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 %}
+{% assign meta_image = page.picture | default: 'https://lh3.googleusercontent.com/u/0/d/1efE0JLf7TX0pfQJJr4nSQdXMgSxlBIfm=w785-h841-iv1' %}
+{% assign meta_url = page.url | absolute_url %}
+{% assign canonical_url = page.url | replace:'index.html','' | absolute_url %}
 
-	<!-- Open Graph -->
-	<meta property="og:title" content="{{ page.title | default: site.title }}"/>
-	<meta property="og:url" content="{{ page.url | absolute_url }}"/>
-	<meta property="og:image" content="{{ page.picture | default: 'https://lh3.googleusercontent.com/u/0/d/1efE0JLf7TX0pfQJJr4nSQdXMgSxlBIfm=w785-h841-iv1' }}"/>
-	<meta property="og:description" content="{{ page.description | default: site.description }}"/>
-	<meta property="og:site_name" content="aslamabbas.com" />
-	<meta property="og:type" content="article"/>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=yes"/>
+<meta name="keywords" content="{{ page.keywords | default: site.keywords }}" />
+<meta name="description" content="{{ meta_desc }}"/>
+<meta name="author" content="{{ site.author.name | default: site.name }}" />
+<link rel="canonical" href="{{ canonical_url }}" />
 
-	<!-- Twitter -->
-	<meta name="twitter:card" content="summary"/>
-	<meta name="twitter:site" content="@aslmabas"/>
-	<meta name="twitter:creator" content="@aslmabas"/>
-	<meta name="twitter:title" content="{{ page.title | default: site.title }}"/>
-	<meta name="twitter:url" content="{{ page.url | absolute_url }}"/>
-	<meta name="twitter:description" content="{{ page.description | default: site.description }}"/>
-	<meta name="twitter:image" content="{{ page.picture | default: 'https://lh3.googleusercontent.com/u/0/d/1efE0JLf7TX0pfQJJr4nSQdXMgSxlBIfm=w785-h841-iv1' }}"/>
-	<meta property="twitter:account_id" content="405713424"/>
+<!-- Open Graph -->
+<meta property="og:title" content="{{ meta_title }}"/>
+<meta property="og:url" content="{{ meta_url }}"/>
+<meta property="og:image" content="{{ meta_image }}"/>
+<meta property="og:description" content="{{ meta_desc }}"/>
+<meta property="og:site_name" content="aslamabbas.com" />
+<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}"/>
 
-	<link rel="icon" type="image/png" href="https://lh3.googleusercontent.com/u/0/d/1efE0JLf7TX0pfQJJr4nSQdXMgSxlBIfm=w785-h841-iv1">
-	<meta name="robots" content="index, follow"/>
-	<meta name="msvalidate.01" content="5B644D08AE782569F732F8E13E496DCB" />
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@aslmabas"/>
+<meta name="twitter:creator" content="@aslmabas"/>
+<meta name="twitter:title" content="{{ meta_title }}"/>
+<meta name="twitter:url" content="{{ meta_url }}"/>
+<meta name="twitter:description" content="{{ meta_desc }}"/>
+<meta name="twitter:image" content="{{ meta_image }}"/>
+<meta property="twitter:account_id" content="405713424"/>
+
+<link rel="icon" type="image/png" href="{{ meta_image }}">
+<meta name="robots" content="index, follow"/>
+<meta name="msvalidate.01" content="5B644D08AE782569F732F8E13E496DCB" />

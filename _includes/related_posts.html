@@ -1,0 +1,32 @@
+{% if page.layout == 'post' %}
+  <div class="related-posts" style="margin-top:2.5rem; padding:1rem 1.2rem; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">
+    <h3 style="margin-top:0;">Related posts</h3>
+    <ul class="posts" style="margin-bottom:0;">
+      {% assign shown = 0 %}
+      {% for post in site.posts %}
+        {% if post.url != page.url and shown < 3 %}
+          {% if page.tags and post.tags and (post.tags contains page.tags or page.tags contains post.tags) %}
+            <li>
+              <small class="datetime muted">{{ post.date | date_to_string }}</small>
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+            {% assign shown = shown | plus: 1 %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      {% if shown == 0 %}
+        {% assign fallback = 0 %}
+        {% for post in site.posts %}
+          {% if post.url != page.url and fallback < 3 %}
+            <li>
+              <small class="datetime muted">{{ post.date | date_to_string }}</small>
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+            {% assign fallback = fallback | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </ul>
+  </div>
+{% endif %}
