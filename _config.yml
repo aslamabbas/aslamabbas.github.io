@@ -31,7 +31,7 @@ plugins:
   - jekyll-sitemap
 
 giscus:
-  enabled: true
+  enabled: false
   repo: aslamabbas/aslamabbas.github.io
   repo_id: REPLACE_WITH_GISCUS_REPO_ID
   category: General

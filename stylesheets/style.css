@@ -569,3 +569,48 @@ section.post blockquote, section > p blockquote {
 }
 
 }
+
+/* ── Related Posts (below article card) ── */
+.related-posts-section {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 1rem;
+  border-top: 1px solid var(--greyLight-2);
+}
+.related-posts-heading {
+  font-family: "Poppins", sans-serif;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--greyLight-3);
+  margin: 0 0 0.75rem;
+}
+.related-posts-section ul.related-posts-list {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.related-posts-section ul.related-posts-list li.related-posts-item {
+  padding: 0.6rem 0 !important;
+  border-bottom: 1px solid var(--greyLight-2);
+  margin: 0 !important;
+  box-shadow: none !important;
+  background: none !important;
+}
+.related-posts-section ul.related-posts-list li.related-posts-item:last-child {
+  border-bottom: none;
+}
+.related-posts-section ul.related-posts-list li.related-posts-item::before {
+  display: none !important;
+}
+a.related-posts-link {
+  color: var(--primary-dark);
+  font-size: 0.875rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+a.related-posts-link:hover {
+  color: var(--primary);
+}

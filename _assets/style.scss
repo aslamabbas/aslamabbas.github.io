@@ -255,3 +255,28 @@ img {
   .left { margin-left: -340px; }
   .right {  margin-left: 320px; }
 }
+
+.related-posts-section {
+  margin-top: 40px;
+  padding: 20px 24px;
+  background: rgba(0, 0, 0, 0.03);
+  border-radius: 8px;
+}
+.related-posts-heading {
+  margin: 0 0 12px 0;
+  font-size: 15px;
+  font-weight: 600;
+}
+.related-posts-list {
+  list-style: disc;
+  margin: 0;
+  padding: 0 0 0 20px;
+}
+.related-posts-item {
+  margin-bottom: 6px;
+  font-size: 14px;
+}
+.related-posts-link {
+  text-decoration: none;
+  &:hover { text-decoration: underline; }
+}
