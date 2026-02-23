@@ -4,3 +4,7 @@ _site/
 .DS_Store
 vendor/
 .bundle/
+.agent-workflow/
+.claude/
+.memory/
+.jekyll-cache/
