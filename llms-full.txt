@@ -1,0 +1,23 @@
+---
+layout: none
+permalink: /llms-full.txt
+---
+# {{ site.name }} — Full Content
+
+> {{ site.description }}
+> Author: {{ site.author.name }} | {{ site.url }}
+
+---
+{% for post in site.posts %}
+
+# {{ post.title }}
+
+- URL: {{ site.url }}{{ post.url }}
+- Date: {{ post.date | date: "%B %d, %Y" }}
+- Tags: {{ post.tags | join: ', ' }}
+- Description: {{ post.description }}
+
+{{ post.content | strip_html }}
+
+---
+{% endfor %}
