@@ -135,8 +135,8 @@ header {
 }
 
 #header-image:hover {
-  transform: scale(1.02);
   filter: grayscale(0%);
+  box-shadow: 0.3rem 0.3rem 0.6rem var(--greyLight-2), -0.2rem -0.2rem 0.5rem var(--white);
 }
 
 .title-container {
@@ -196,6 +196,7 @@ header {
 
 .header-social-links a:hover {
   color: var(--primary);
+  box-shadow: 0.3rem 0.3rem 0.6rem var(--greyLight-2), -0.2rem -0.2rem 0.5rem var(--white);
 }
 
 footer {
@@ -248,10 +249,10 @@ footer {
   box-sizing: border-box;
   width: 600px;
   background: var(--greyLight-1);
-  margin: 0 auto 20px;
+  margin: 40px auto 40px;
   border-radius: 20px;
   box-shadow: 0.8rem 0.8rem 1.4rem var(--greyLight-2), -0.2rem -0.2rem 1.8rem var(--white);
-  padding: 30px 40px;
+  padding: 40px 40px;
 }
 
 /* Override #container .block styles leaking into post-footer-card */
@@ -419,6 +420,8 @@ section.post {
       font-size: 10px; }
   section.post iframe {
     width: 100%; }
+  section.post center {
+    margin-bottom: 30px; }
 
 .content h3{
   margin: 10px 0;
