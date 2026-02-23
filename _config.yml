@@ -1,7 +1,22 @@
 title:            aslam abbas | blogger | thinker | observer
+name:             Aslam Abbas
 description:      Aslam Abbas writes stuff on technology, ideas, cycling, people and so on. You can read the articles written by Aslam Abbas. Comment on them and start interacting with Aslam Abbas. Do enjoy your reads at aslamabbas.com. Feel free to get in touch with Aslam Abbas.
-url:              http://aslamabbas.com
+url:              https://aslamabbas.com
 signoff:          Until next time, stay curious and keep learning!
+
+author:
+  name: Aslam Abbas
+  url: https://aslamabbas.com/about/
+  email: mailaslamabbas@gmail.com
+
+organization:
+  name: Micro.company
+  url: https://micro.company
+
+social:
+  x: https://twitter.com/aslmabas
+  linkedin: https://linkedin.com/in/aslmabas
+  instagram: https://instagram.com/aslmabas
 
 links:
   - name:         all posts
@@ -14,3 +29,17 @@ permalink:        pretty
 markdown:         kramdown
 plugins:
   - jekyll-sitemap
+
+giscus:
+  enabled: false
+  repo: aslamabbas/aslamabbas.github.io
+  repo_id: REPLACE_WITH_GISCUS_REPO_ID
+  category: General
+  category_id: REPLACE_WITH_GISCUS_CATEGORY_ID
+  mapping: pathname
+  strict: 0
+  reactions_enabled: 1
+  emit_metadata: 0
+  input_position: top
+  theme: light
+  lang: en

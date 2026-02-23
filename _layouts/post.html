@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ page.title }} - {{ site.title }}</title>
+    <title>{{ page.title }} | {{ site.name }}</title>
     {% include head.html %}
   </head>
   <body>
@@ -18,15 +18,15 @@
           {{ content }}
           {% include signoff.html %}
 
-
         </section>
       </div>
-      {% if page.share == 'y' %}
-        <!-- {% include share.html %} -->
-      {% endif %}
+    </div>
 
+    <div id='post-footer-card'>
+      {% include related_posts.html %}
       {% include links.html %}
     </div>
+
     {% include footer.html %}
   </body>
 </html>

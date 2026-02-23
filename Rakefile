@@ -19,28 +19,43 @@ task :default do
 end
 
 
-desc 'create a new draft post'
+desc 'create a new draft post with image folder'
 task :post do
   title = ENV['TITLE']
   slug = "#{Date.today}-#{title.downcase.gsub(/[^\w]+/, '-')}"
+  image_folder_name = title.downcase.gsub(/[^\w]+/, '-').gsub(/-+$/, '')
 
-  file = File.join(
-    File.dirname(__FILE__),
-    '_posts',
-    slug + '.markdown'
-  )
-
+  # Create post file
+  file = File.join(File.dirname(__FILE__), '_posts', slug + '.markdown')
   File.open(file, "w") do |f|
     f << <<-EOS.gsub(/^    /, '')
     ---
     layout: post
     title: #{title}
-    published: false
-    categories:
+    published: true
+    description:
+    keywords:
+    tags:
     ---
 
     EOS
   end
 
-  system ("#{ENV['EDITOR']} #{file}")
+  # Create image folder with index.html to block directory browsing
+  image_dir = File.join(File.dirname(__FILE__), 'assets', 'images', 'posts', image_folder_name)
+  FileUtils.mkdir_p(image_dir)
+  index_file = File.join(image_dir, 'index.html')
+  File.open(index_file, "w") do |f|
+    f << <<-EOS.gsub(/^    /, '')
+    ---
+    permalink: /assets/images/posts/#{image_folder_name}/
+    sitemap: false
+    ---
+    <script>window.location.replace('/404.html');</script>
+    EOS
+  end
+
+  puts "Created post: #{file}"
+  puts "Created image folder: #{image_dir}"
+  system ("#{ENV['EDITOR']} #{file}") if ENV['EDITOR']
 end

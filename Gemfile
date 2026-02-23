@@ -1,6 +1,7 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
-gem "github-pages", group: :jekyll_plugins
-gem 'jekyll-sitemap'
-
-gem "webrick", "~> 1.8"
+gem 'jekyll', '~> 4.3.3'
+gem 'jekyll-sitemap', '~> 1.4'
+gem 'webrick', '~> 1.9'
+gem 'csv'
+gem 'base64'

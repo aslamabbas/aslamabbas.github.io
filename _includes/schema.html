@@ -1,0 +1,55 @@
+{% assign page_title = page.title | default: site.name %}
+{% assign page_desc = page.description | default: site.description | strip_html | strip_newlines %}
+{% assign page_image = page.picture | default: 'https://lh3.googleusercontent.com/u/0/d/1efE0JLf7TX0pfQJJr4nSQdXMgSxlBIfm=w785-h841-iv1' %}
+{% assign canonical = page.url | replace:'index.html','' | absolute_url %}
+
+{% if page.layout == 'post' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {"@type": "WebPage", "@id": "{{ canonical }}"},
+  "headline": {{ page_title | jsonify }},
+  "description": {{ page_desc | jsonify }},
+  "image": [{{ page_image | jsonify }}],
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Person",
+    "name": {{ site.author.name | default: site.name | jsonify }},
+    "url": {{ site.author.url | default: site.url | jsonify }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.organization.name | default: site.name | jsonify }},
+    "url": {{ site.organization.url | default: site.url | jsonify }}
+  }
+}
+</script>
+{% endif %}
+
+{% if page.url == '/' or page.url == '/about/' or page.url == '/about' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "name": {{ site.author.name | default: site.name | jsonify }},
+      "url": {{ site.author.url | default: site.url | jsonify }},
+      "email": {{ site.author.email | default: '' | jsonify }},
+      "sameAs": [
+        {{ site.social.x | default: '' | jsonify }},
+        {{ site.social.linkedin | default: '' | jsonify }},
+        {{ site.social.instagram | default: '' | jsonify }}
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": {{ site.organization.name | default: site.name | jsonify }},
+      "url": {{ site.organization.url | default: site.url | jsonify }}
+    }
+  ]
+}
+</script>
+{% endif %}

@@ -1,4 +1,9 @@
 User-Agent: *
-Disallow: 
+Disallow: /assets/
+Disallow: /stylesheets/
+Disallow: /javascripts/
+Allow: /llms.txt
+Allow: /llms-full.txt
 
-Sitemap: http://aslamabbas.com/sitemap.xml
+Sitemap: https://aslamabbas.com/sitemap.xml
+LLMs: https://aslamabbas.com/llms.txt

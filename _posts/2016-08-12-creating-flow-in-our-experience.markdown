@@ -5,7 +5,6 @@ published: true
 description: A review on the book "Flow, The Psychology of Optimal Experience by Mihaly Csikszentmihalyi"
 keywords: Mihaly Csikszentmihalyi, Csikszentmihalyi, review, book, flow, psychology, consciousness, productivity, self-help, experience, life
 tags: life
-disqus: y
 share: y
 ---
 

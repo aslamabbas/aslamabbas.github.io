@@ -1,0 +1,33 @@
+---
+layout: none
+permalink: /llms.txt
+---
+# {{ site.name }}
+
+> {{ site.description }}
+
+## About
+
+- Author: {{ site.author.name }}
+- Site: {{ site.url }}
+- About page: {{ site.url }}/about/
+- Contact: {{ site.author.email }}
+- LinkedIn: {{ site.social.linkedin }}
+- X/Twitter: {{ site.social.x }}
+
+## Posts
+{% for post in site.posts %}
+- [{{ post.title }}]({{ site.url }}{{ post.url }}) — {{ post.date | date: "%b %Y" }}{% if post.description %} — {{ post.description }}{% endif %}
+{% endfor %}
+
+## Tags
+{% for tag in site.tags %}
+- [{{ tag[0] }}]({{ site.url }}/tags/{{ tag[0] }})
+{% endfor %}
+
+## Raw Markdown
+
+Each post is available as raw markdown at its URL + `index.md`:
+{% for post in site.posts %}
+- {{ site.url }}{{ post.url }}index.md
+{% endfor %}

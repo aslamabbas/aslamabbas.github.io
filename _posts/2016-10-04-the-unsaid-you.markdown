@@ -5,7 +5,6 @@ published: true
 description: A poem that I scribbled down. Its about things that went unsaid about a person to another that cared a lot about the former
 keywords: poem, I , unsaid, you
 tags: random
-disqus: y
 share: y
 ---
 <pre>
