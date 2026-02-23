@@ -5,7 +5,6 @@ published: true
 description: A real story of our 7-day trip to Tawang
 keywords: Tawang, Dirang, Bomdilla, Bhalukpong, Bum La Pass, China, Tourist, travel, zoomcar, north-east, India, 7 day trip to Tawang, Tawang Travelogue, Kaziranga National Park, Elephant Safari, China border
 tags: life
-disqus: y
 share: y
 ---
 

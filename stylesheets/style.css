@@ -86,14 +86,6 @@ img {
 .muted {
   color: #8f8f8f; }
 
-.colour-1 {
-  color: #cc9944; }
-
-.colour-2 {
-  color: #925; }
-
-.colour-3 {
-  color: #448844; }
 
 .text-big {
   font-size: 24px;
@@ -245,10 +237,55 @@ footer {
   box-sizing: border-box;
   width: 600px;
   background: var(--greyLight-1);
-  margin: 40px auto 20px;
+  margin: 20px auto;
   border-radius: 20px;
   box-shadow: 0.8rem 0.8rem 1.4rem var(--greyLight-2), -0.2rem -0.2rem 1.8rem var(--white);
-  position: relative; }
+  position: relative;
+  padding: 10px 20px;
+}
+
+#post-footer-card {
+  box-sizing: border-box;
+  width: 600px;
+  background: var(--greyLight-1);
+  margin: 0 auto 20px;
+  border-radius: 20px;
+  box-shadow: 0.8rem 0.8rem 1.4rem var(--greyLight-2), -0.2rem -0.2rem 1.8rem var(--white);
+  padding: 30px 40px;
+}
+
+/* Override #container .block styles leaking into post-footer-card */
+#post-footer-card .block {
+  border: none;
+  padding: 0;
+  text-align: center;
+}
+
+#post-footer-card .block a {
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #26689a;
+  text-transform: lowercase;
+  padding: 8px 14px;
+  margin: 4px;
+  border-radius: 50px;
+  display: inline-block;
+  transition: all 0.3s ease;
+  box-shadow: none;
+  background-image: none !important;
+  line-height: 1.4;
+}
+
+#post-footer-card .block a:hover {
+  color: var(--primary);
+  box-shadow: 0.3rem 0.3rem 0.6rem var(--greyLight-2), -0.2rem -0.2rem 0.5rem var(--white);
+}
+
+#post-footer-card .block a:active {
+  box-shadow: inset 0.2rem 0.2rem 0.5rem var(--greyLight-2), inset -0.2rem -0.2rem 0.5rem var(--white);
+  color: var(--primary);
+}
   #container:before, #container:after {
     content: " ";
     display: table; }
@@ -257,54 +294,34 @@ footer {
 
   /* Block Styling */
 #container .block {
-  border-top: 1px solid #efefef;
-  border-bottom: 1px solid #efefef;
-  padding: 30px 40px 24px;
+  border: none;
+  padding: 20px 30px;
   text-align: center;
 }
 
-#container .block:first-child,
-#container .block + .block {
-  border-top: none;
-}
-
-#container .block:last-child {
-  border-bottom: none;
-}
-
 /* Link Styling */
-#container .block a.main {
+#container .block a {
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #26689a;
+  text-transform: lowercase;
+  padding: 8px 14px;
+  margin: 4px;
+  border-radius: 50px;
   display: inline-block;
-  vertical-align: baseline;
-}
-
-#container .block a.main:last-of-type {
-  margin-right: 0;
-}
-
-/* Button Styling */
-#container .block .button {
-  display: inline-block;
-  vertical-align: baseline;
-  height: 20px;
-  overflow: hidden;
-}
-#container .block a{
-  padding: 5px 5px;
-  margin-right: 12px;
-  margin-bottom: 6px;
+  transition: all 0.3s ease;
+  box-shadow: none;
+  background-image: none !important;
+  line-height: 1.4;
 }
 
 #container .block a:hover {
-  padding: 5px 5px;
-  margin-right: 12px;
-  margin-bottom: 6px;
-  border-radius: 10px;
-  position: relative;
-  transform: translateX(1px);
-  transition: all 0.5s ease;
-  box-shadow: 3px 3px 6px rgba(166, 180, 200, 0.7), -3px -3px 6px rgba(255, 255, 255, 0.8);
+  color: var(--primary);
+  box-shadow: 0.3rem 0.3rem 0.6rem var(--greyLight-2), -0.2rem -0.2rem 0.5rem var(--white);
+  border-radius: 50px;
 }
+
 #container .block a:active {
   box-shadow: inset 0.2rem 0.2rem 0.5rem var(--greyLight-2), inset -0.2rem -0.2rem 0.5rem var(--white);
   color: var(--primary);
@@ -433,14 +450,19 @@ section.post, section > p {
 
     section.post blockquote, section > p blockquote {
       border-radius: 20px;
-      padding: 40px;
+      padding: 40px !important;
+      margin-top: 10px;
+      margin-bottom: 5px;
       width: 100%;
       background: #263c5c;
       color: whitesmoke;
-      box-shadow: 0.8rem 0.8rem 1.4rem var(--greyLight-2), -0.2rem -0.2rem 1.8rem var(--white);    
+      box-shadow: inset 0.2rem 0.2rem 0.6rem rgba(0, 0, 0, 0.3), inset -0.2rem -0.2rem 0.6rem rgba(255, 255, 255, 0.05);
       transition: all 0.5s ease;
       position: relative;
       overflow: hidden;
+    }
+    section.post blockquote a, section > p blockquote a {
+      color: #f3bbf4;
     }
 
   section.post li .highlight, section > p li .highlight {
@@ -454,22 +476,25 @@ section.post, section > p {
 
 pre {
   overflow-x: auto;
-  padding: 10px 0;
+  padding: 14px 20px;
   width: 100%;
-  line-height: 1.2em;
-  background: lightslategray;
-  color: wheat;
+  line-height: 1.4em;
+  border-radius: 14px;
+  background: var(--greyLight-1);
+  color: var(--primary-dark);
+  box-shadow: inset 0.2rem 0.2rem 0.5rem var(--greyLight-2), inset -0.2rem -0.2rem 0.5rem var(--white);
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
 code {
   font-size: 13px;
-  color: #eee;
-  background: #39382e;
-  padding: 2px 4px 3px;
-  border-radius: 2px;
+  color: var(--primary-dark);
+  background: var(--greyLight-1);
+  padding: 2px 6px 3px;
+  border-radius: 6px;
   line-height: 1.3em;
+  box-shadow: inset 0.1rem 0.1rem 0.3rem var(--greyLight-2), inset -0.1rem -0.1rem 0.3rem var(--white);
   display: inline-block;
   vertical-align: baseline;
   zoom: 1;
@@ -515,8 +540,14 @@ img {
 
 @media (max-width: 768px) {
   #container {
-    width: 90%; /* Adjust width for smaller screens */
-    margin: 20px auto; /* Adjust margin for better centering */
+    width: 90%;
+    margin: 20px auto;
+  }
+
+  #post-footer-card {
+    width: 90%;
+    margin: 0 auto 20px;
+    padding: 20px;
   }
   
   #container .block {
@@ -570,20 +601,19 @@ section.post blockquote, section > p blockquote {
 
 }
 
-/* ── Related Posts (below article card) ── */
+/* ── Related Posts (inside post-footer-card) ── */
 .related-posts-section {
-  max-width: 680px;
-  margin: 0 auto;
-  padding: 2rem 1.5rem 1rem;
-  border-top: 1px solid var(--greyLight-2);
+  margin: 0 0 0;
+  padding: 0 0 1.5rem;
+  border-bottom: 1px solid var(--greyLight-2);
 }
 .related-posts-heading {
   font-family: "Poppins", sans-serif;
-  font-size: 0.7rem;
+  font-size: 14px;
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--greyLight-3);
+  text-transform: lowercase;
+  letter-spacing: 0;
+  color: #26689a;
   margin: 0 0 0.75rem;
 }
 .related-posts-section ul.related-posts-list {
@@ -592,25 +622,27 @@ section.post blockquote, section > p blockquote {
   margin: 0 !important;
 }
 .related-posts-section ul.related-posts-list li.related-posts-item {
-  padding: 0.6rem 0 !important;
-  border-bottom: 1px solid var(--greyLight-2);
-  margin: 0 !important;
+  padding: 0.6rem 0.5rem !important;
+  border-radius: 10px;
+  margin: 0 0 0.25rem !important;
   box-shadow: none !important;
   background: none !important;
+  transition: box-shadow 0.3s ease;
 }
-.related-posts-section ul.related-posts-list li.related-posts-item:last-child {
-  border-bottom: none;
+.related-posts-section ul.related-posts-list li.related-posts-item:hover {
+  box-shadow: 0.2rem 0.2rem 0.5rem var(--greyLight-2), -0.2rem -0.2rem 0.4rem var(--white) !important;
 }
 .related-posts-section ul.related-posts-list li.related-posts-item::before {
   display: none !important;
 }
 a.related-posts-link {
-  color: var(--primary-dark);
-  font-size: 0.875rem;
-  font-weight: 500;
+  color: #303030;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
   text-decoration: none;
   transition: color 0.2s;
 }
 a.related-posts-link:hover {
-  color: var(--primary);
+  color: #26689a;
 }

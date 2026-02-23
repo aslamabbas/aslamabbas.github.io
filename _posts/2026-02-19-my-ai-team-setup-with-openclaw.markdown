@@ -5,7 +5,6 @@ published: true
 description: "I built a team of 5 AI agents in 4 days on a Mac Mini. Here's what actually happened — the late nights, the things that broke, and the workflows that changed everything."
 keywords: openclaw, ai agents, non-technical founder, personal ai assistant, telegram ai, voice workflow, whisper cpp, founder productivity, micro company, ai team
 tags: tech
-disqus: y
 share: y
 ---
 

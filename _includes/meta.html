@@ -1,4 +1,8 @@
-{% assign meta_title = page.title | default: site.name %}
+{% if page.title %}
+  {% assign meta_title = page.title | append: ' | ' | append: site.name %}
+{% else %}
+  {% assign meta_title = site.name %}
+{% endif %}
 {% assign meta_desc = page.description | default: page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 %}
 {% assign meta_image = page.picture | default: 'https://lh3.googleusercontent.com/u/0/d/1efE0JLf7TX0pfQJJr4nSQdXMgSxlBIfm=w785-h841-iv1' %}
 {% assign meta_url = page.url | absolute_url %}

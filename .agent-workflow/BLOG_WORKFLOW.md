@@ -22,8 +22,6 @@ Purpose: Keep a repeatable process for writing/publishing blog posts in this rep
   - `description`
   - `keywords`
   - `tags`
-  - `disqus: y`
-  - `share: y`
 - Keep structure:
   - Hook
   - What worked / what failed

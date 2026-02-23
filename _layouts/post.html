@@ -18,21 +18,15 @@
           {{ content }}
           {% include signoff.html %}
 
-          {% if page.disqus == 'y' or page.comments == true %}
-            {% include giscus.html %}
-          {% endif %}
-
-        {% include related_posts.html %}
-
         </section>
       </div>
+    </div>
 
-      {% if page.share == 'y' %}
-        <!-- {% include share.html %} -->
-      {% endif %}
-
+    <div id='post-footer-card'>
+      {% include related_posts.html %}
       {% include links.html %}
     </div>
+
     {% include footer.html %}
   </body>
 </html>

@@ -1,4 +1,6 @@
 User-Agent: *
-Disallow: 
+Disallow: /assets/
+Disallow: /stylesheets/
+Disallow: /javascripts/
 
 Sitemap: https://aslamabbas.com/sitemap.xml
