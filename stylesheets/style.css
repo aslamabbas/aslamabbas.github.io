@@ -441,6 +441,13 @@ section.post {
         8px 8px 18px rgba(0, 0, 0, 0.15),
         -8px -8px 18px rgba(255, 255, 255, 0.8);
     transition: all 0.3s ease;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  section.post b.small, section.post .small {
+    text-align: center;
+    display: block;
   }
 
 section.post, section > p {
@@ -459,7 +466,7 @@ section.post, section > p {
       border-radius: 20px;
       padding: 40px !important;
       margin-top: 10px;
-      margin-bottom: 5px;
+      margin-bottom: 15px;
       width: 100%;
       background: #263c5c;
       color: whitesmoke;
@@ -658,4 +665,43 @@ a.related-posts-link {
 }
 a.related-posts-link:hover {
   color: #26689a;
+}
+
+/* Lightbox */
+.lightbox-overlay {
+  display: none;
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0, 0, 0, 0.85);
+  z-index: 9999;
+  cursor: zoom-out;
+  justify-content: center;
+  align-items: center;
+}
+.lightbox-overlay.active {
+  display: flex;
+}
+.lightbox-overlay img {
+  max-width: 92vw;
+  max-height: 90vh;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5);
+  animation: lightbox-in 0.2s ease;
+}
+@keyframes lightbox-in {
+  from { transform: scale(0.9); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+section.post img {
+  cursor: zoom-in;
+}
+section.post img.signoff-img {
+  width: 100px !important;
+  max-width: 100px !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  cursor: default;
+  margin-left: 0;
+  margin-right: auto;
 }

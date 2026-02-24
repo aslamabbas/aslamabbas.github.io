@@ -21,8 +21,8 @@ _Added a list of bikes to that you can buy at the end of the post!_
 
 **Mindset of the buyer**
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/0BwzDnRSrxRoaZEo1dHJFUkRhNjQ=s1600-k-iv1" alt="Choosing a bike" /></center>
-<center><b class="small"><a href="http://uk.complex.com/sports/2014/06/buying-your-first-road-bike/">Photo Credit</a></b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/0BwzDnRSrxRoaZEo1dHJFUkRhNjQ=s1600-k-iv1" alt="Choosing a bike" />
+<b class="small"><a href="http://uk.complex.com/sports/2014/06/buying-your-first-road-bike/">Photo Credit</a></b>
 
 Now this is what we have to discuss. The answer varies from person to person. I have amassed some of the typical cases.
 

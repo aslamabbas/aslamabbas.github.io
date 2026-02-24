@@ -9,8 +9,8 @@ disqus: y
 share: y
 ---
 
-<center><img src="/assets/images/posts/openclaw-ai-team/openclaw-team-hero-v3.jpg" alt="A personal AI team workspace running on a Mac Mini" /></center>
-<center><b class="small">You and your AI team makes a busy desk</b></center>
+<img src="/assets/images/posts/openclaw-ai-team/openclaw-team-hero-v3.jpg" alt="A personal AI team workspace running on a Mac Mini" />
+<b class="small">You and your AI team makes a busy desk</b>
 
 The whole internet is buzzing with OpenClaw right now.
 
@@ -88,7 +88,7 @@ One time I tried to manually edit `openclaw.json` to add Telegram channels. **I 
 
 > **Tip:** After setting up your main agent, the first thing you should do is feed it the OpenClaw documentation. Tell it to learn everything about itself. That saves you from a lot of bad self-advice later.
 
-## Voice Changed Everythingß
+## Voice Changed Everything
 
 Typing long instructions to AI gets old fast. There's a lot you want the agent to do, and typing it all out is painful.
 
@@ -98,8 +98,8 @@ The agent said it would set up Whisper and Microsoft Edge TTS. I don't know what
 
 That changed the pace of everything.
 
-<center><img src="/assets/images/posts/openclaw-ai-team/openclaw-team-voice-v2.jpg" alt="Voice-first workflow - speaking to AI agents through Telegram" /></center>
-<center><b class="small">Voice made this system practical: less typing, faster context, smoother execution.</b></center>
+<img src="/assets/images/posts/openclaw-ai-team/openclaw-team-voice-v2.jpg" alt="Voice-first workflow - speaking to AI agents through Telegram" />
+<b class="small">Voice made this system practical: less typing, faster context, smoother execution.</b>
 
 ## Spinning Up More Agents
 
@@ -162,8 +162,8 @@ One more thing that came to mind: we've reached a point where you can look at a 
 
 For now, humans are still in the game. We just have to master a new set of skills.
 
-<center><img src="/assets/images/posts/openclaw-ai-team/openclaw-team-conclusion-v2.jpg" alt="Humans and AI working together" /></center>
-<center><b class="small">We didn't lose our jobs. We just got superpowers.</b></center>
+<img src="/assets/images/posts/openclaw-ai-team/openclaw-team-conclusion-v2.jpg" alt="Humans and AI working together" />
+<b class="small">We didn't lose our jobs. We just got superpowers.</b>
 
 ---
 

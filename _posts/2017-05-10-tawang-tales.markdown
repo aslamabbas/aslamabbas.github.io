@@ -8,8 +8,8 @@ tags: life
 share: y
 ---
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1tyWNO1OqP3LxKhjiehrW15LaLR4D2KdY=s1600-k-iv1" alt="This is where we are going" /></center>
-<center><b class="small">A view from the Giant Buddha Statue in Tawang</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1tyWNO1OqP3LxKhjiehrW15LaLR4D2KdY=s1600-k-iv1" alt="This is where we are going" />
+<b class="small">A view from the Giant Buddha Statue in Tawang</b>
 
 
 
@@ -32,8 +32,8 @@ _"Hey have you heard of Tawang and Sela pass? It is a remote place, and very bea
 
 Now the next crucial element of the trip, the instrument of transport. It was **rent a bike** Vs **rent a cab** Vs **self-drive car**. The **rent a cab** option quickly went out of the window. Incidentally, one of our friends had already gone to Tawang. He shared with us the pictures of Dirang Valley and the wonderful condition of the roads and hairpins that lay ahead. He warned us that self-driving is dangerous and tedious. Even their cab driver was having a tough time. The warning had the reverse effect. Everyone took it as a challenge to ride the roads, rather than to sit in the back of some stranger's car. And the **rent a bike** option was crossed out since most of us were better at driving cars than riding bikes. So we booked a Mahindra Scorpio from ZoomCar for 7 days. They recently started out in Guwahati, so it was the perfect timing for us. We didn't pre-book any hotels. Sajeev and I were not so happy with that decision, but after a sarcastic lecture from Appu on how overplanning ruins the fun of a trip, we gave in. It turned out to be the right decision.
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1Snby2CxJSk6emeZe9pLjHFPuquBB2MMy=s1600-k-iv1" alt="Tawang Valley Pic" /></center>
-<center><b class="small">The mesmerising Tawang Valley view from the monastery</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1Snby2CxJSk6emeZe9pLjHFPuquBB2MMy=s1600-k-iv1" alt="Tawang Valley Pic" />
+<b class="small">The mesmerising Tawang Valley view from the monastery</b>
 
 
 ---
@@ -52,8 +52,8 @@ Sebastian and Prasad had come to my place in Bangalore. Appu should also have jo
 
 For a change, the Spice Jet flights arrived on time. Guwahati Airport was neither well maintained nor large as its Bangalore counterpart. It had a parking lot the size of two Basket Ball courts. All of us took our backpacks and grabbed a seat in the nearest KFC. No, we didn't have KFC for breakfast. We were just waiting for Sajeev and Deepu to come and pick us up in the Scorpio. An hour passed, waiting for them. Meanwhile, we took out our cameras and inspected them. Sebastian had brought a digital Nikon. That camera had a mind of its own. From time to time it would zoom in and out. Plus, the capture button was too stubborn. It would not work no matter how hard I pressed. Deepu had also brought a camera. It was an oldie but still functioned properly. Fortunately, Deepu and Appu had iPhones. So that would suffice. 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1v0UYeWoy4V7CKXJ-Fe-rPKqUJVA_266i=s1600-k-iv1" alt="the ride" /></center>
-<center><b class="small">Our ride for the trip</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1v0UYeWoy4V7CKXJ-Fe-rPKqUJVA_266i=s1600-k-iv1" alt="the ride" />
+<b class="small">Our ride for the trip</b>
 
 It was almost 10.30 am. At last, they came with the Scorpio, a mighty blue beast. We hopped on and the first thing that we did was check the fuel and tire pressure. Deepu was the navigator and Sajeev was the driver. We set the destination to Bhalukpong and drove on. None of us had eaten anything and were extremely hungry. We looked for hotels on the highway, but couldn't find anything decent. The view along the road reminded me of Kerala. There were a lot of green pastures, paddy fields, and small hills. However, Guwahati didn't have the one thing Kerala has, an amplitude of hotels along the highway. Finally, we settled for a small hotel. There was no menu as such.There was only Poori and Sabji. That became our brunch. Two hours into the trip and I realized that sitting in the back of the Scorpio is a pain in the ass. So we decided to stop here-and-there and shift places and the driver.
 
@@ -63,13 +63,13 @@ There are some tourist places in Guwahati, temples mostly. We didn't stop at any
 
 All along the way, we talked on and on about our office lives and college days. Many memories were refreshed and I think that is the best thing about going on a trip with college mates. There was one memory of our friend that stood out. Let's call him X. X was a charming intellectual with an extreme appetite for sleep. X always makes it through the exams somehow. Like every other engineering student, it is the late night combine study that helps all of us, including X. It was the internal exams time. It counts for 50 marks at the University. This time it was Maths for our branch. All of us prepped well, digested the formulas and marched to the examination hall. In the examination hall, students are seated so that no one from the same branch sits close to each other. Also, the branch will be split into groups and placed in different examination halls. It so happened that X was the only one from our branch in his examination hall. He didn't mind. We finished our exams, went back to the hostel and started discussing the paper. As we were discussing, X stepped in and started listening to the answers. X started panicking, he didn't get any of the answers that we got. After a few minutes, he started saying that none of the questions we mentioned were in his paper. We also got confused. That is when it struck all of us. X had written the physics paper of another branch. The whole two hours of the exam, X gladly sat there, attempted all the questions, handed over the answer sheet to the examiner, walked away confidently and never realized that it was not the Maths paper. Oh man, you should have seen the look on X's face. He immediately went to the Maths department to see our professor. The entire department burst into laughter. Our professor only had to say the following, _" In my 25 years of teaching experience, I have never seen or heard such an incident ever happening."_. He got away with it and got his retest. This is one memory that still makes all of us laugh till our cheekbones hurt. The only reason, I am not revealing the identity of X is because if he gets pissed, he might hack this blog of mine. 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/13JpHEw9WkttiRVAg5ZKCcALX7vr4ee1g=s1600-k-iv1" alt="npcb scene" /></center>
-<center><b class="small">A scene that reminded us of NPCB</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/13JpHEw9WkttiRVAg5ZKCcALX7vr4ee1g=s1600-k-iv1" alt="npcb scene" />
+<b class="small">A scene that reminded us of NPCB</b>
 
 I am sorry, I think I got carried away. So where were we? Yes, I was in the driving seat with sixty km left to Bhalukpong. I must say I was lucky. I got the best road with zero traffic. There was a dense forest on both sides and a smooth road ahead. The golden evening sunlight was slowly fading away into the horizon. As I was speeding along, we glanced a small river on our right side. We decided to take a stop and have a look. We couldn't find a way to the banks of the river. Appu and I spoke to the local children and they showed us the way. The river bank was laid with beautiful stones, almost looked like a scene from [NPCB](https://twitter.com/npcbmovie/status/493634214860840960). It was a part of the Kameng river that went on to join the Brahmaputra. We snapped some pics and continued the journey. We reached Bhalukpong check post. This is the first place where we had to show the ILP of each passenger. The army men just had a quick glance through the paperwork and passed us through. I spoke to a senior army man, asking him for hotels nearby. He told me he was posted there only the day before and didn't know much about the area. He did tell us, why the place was called 'Bhalukpong'. It has something to do with bears (Bhalu is bear in Hindi) coming over from the forest for a drink. 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1RdiLzeKfBqFlXn-ZgRm7O52iYcNt_Yyf=s1600-k-iv1" alt="fall of appu" /></center>
-<center><b class="small">Appu slipped into the icy water and got completely wet</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1RdiLzeKfBqFlXn-ZgRm7O52iYcNt_Yyf=s1600-k-iv1" alt="fall of appu" />
+<b class="small">Appu slipped into the icy water and got completely wet</b>
 
 We got a nice deal at a lodge, Hotel Tazi Yangste. As we were settling down, we met our next surprise. I saw Kartha and Sajeev talking with some of our batchmates from our [college](http://tkmce.ac.in/). We knew their team had gone a week before to Tawang, but we never imagined seeing them along the way. [Vishnu](https://www.facebook.com/vishnu.gopakumar.39), [Shahanshah](https://www.facebook.com/shahanshahs), [Potti](https://www.facebook.com/sreehari.varma.311) and [Sreeram](https://www.facebook.com/sreerampr.ala) had all gone in rented bikes. What freaked me out, was their costumes - jacket upon jacket with thermals inside, gloves on the hands and gumboots on their legs. They were in a hurry and very quickly they gave a brief summary of Tawang and the road ahead to Bum La. Their tips really helped us. The good news was that there was snow at the top, but they warned us that if there is heavy snowfall, getting to the top in a four-wheeler may be not allowed by the army. We bid them farewell and settled down at the hotel. We all had some delicious chicken momos. We tucked in early since we wanted to leave early in the morning.
 
@@ -99,16 +99,16 @@ Our order had arrived; hot Maggie plus tea.It tasted good and we left. The road 
 
 Along the way, we could see a lot of army stations. Each unit has its own name and purpose. Photography in these areas is prohibited and there are speed breakers along the road to make sure that we drive slow. These stations are well maintained and we can approach these army men for any help we need. Also to point out that among the few ATMs that we saw along the road, most were situated near to these army stations. By evening, we had reached Dirang. We were running low on fuel. We took the Scorpio to the nearest petrol pump. Since we rented the vehicle from ZoomCar, the fuel bills will be reimbursed. However, we need printed bills from the pump for the reimbursement. This small little pump was out of printing paper. After a few minutes of discussion, we pumped diesel worth 500 INR, took the written bill and left. Something is better than nothing. 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1TkUouzfau7PlitFqacdudxrLDl6yegRy=s1600-k-iv1" alt="flags" /></center>
-<center><b class="small">These prayer flags can be found everywhere on the road</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1TkUouzfau7PlitFqacdudxrLDl6yegRy=s1600-k-iv1" alt="flags" />
+<b class="small">These prayer flags can be found everywhere on the road</b>
 
 It was almost 4:30 pm, but the sunlight had nearly gone out. Thick fog was starting to set in. Appu was driving and was having a hard time seeing the road. The fog lights and indicators were turned on. To the left of the road were sharp ridges, which was clouded by the fog. As we slowly made our way through the fog, tiny dots began to appear against the front window frame. It was not waterdrops. Then we began to hear the sound of particles hitting the car. For a moment we were worried, was it hailstones, but it was not that hard or big. It was snowfall!
 
 _"Look man, it's snowfall"_, 
 exclaimed everyone. We lowered the side window panels and saw actual snowfall. Everyone was excited and joyous because it was a first time experience for everyone. It lasted only for a couple of minutes and then the fog cleared. Everything was back to normal. From a far distance, we saw the 'Welcome to Tawang' gate and we knew we had reached Sela Pass. 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1tg9I-JVDgf1REFARZ5E-g0xsYrtpgc9M=s1600-k-iv1" alt="Sela Pass" /></center>
-<center><b class="small">The colorful entry gate at Sela Pass</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1tg9I-JVDgf1REFARZ5E-g0xsYrtpgc9M=s1600-k-iv1" alt="Sela Pass" />
+<b class="small">The colorful entry gate at Sela Pass</b>
 
 We parked the car and all of us posed for a group picture. There were sheets of snow lying around and it was too cold. At the moment, I was wearing my casual clothes. Very bad move there. Within seconds, my hands and feet started to ache and I had to switch to shoes, gloves and a jacket. We shut all the windows and turned the A/C knob towards the warmer side. That was the first time, I used that option in a vehicle. We rotated our seats and Kartha climbed onto the driver seat. Sunlight was fading away. It also started to shower a little and we still had more than 70 km to cover to reach Tawang. To make things worse, the condition of the road was that of an abandoned battlefield. We knew that the next town ahead was Jang. We decided that if we find any lodge in Jang we shall spend the night there. It was 7:00 pm when we reached Jang. We found a lodge, but the owner said that if you drive for one more hour you will be able to reach Tawang. By this time, the battery of almost all our phones was down and the network signal was nearly extinct. Fortunately, Sebastian had downloaded the offline map on his phone and he was getting the GPS signal as well. So he became our navigator in the dark of the night. 
 
@@ -132,8 +132,8 @@ we whispered among ourselves. The first thing I did after waking up from bed was
 
 By around, 9.30 am all of us were ready. We didn't have much planned for the day. Visiting Tawang Monastery and obtaining the pass to Bum La; these were the only things on our bucket list. Unlike other towns we passed like Dirang or Bomdilla, Tawang looked more well built and organized. Our hotel was in Nehru Market and had some good restaurants nearby. For breakfast, we had lots of options -  Rice (Chaval), Chowmein, Paratha, and Poori. All of us ordered Rice with Chicken and Mushroom curries. It really tasted good. On the side, there was a notice that said that non-veg and alcohol will not be served on Wednesdays in Tawang. It was according to Buddhist customs, I believe.
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1dDC6x6wggPUCD6ouOXKs9C_9o73MTYFJ=s1600-k-iv1" alt="Roaming in Tawang" /></center>
-<center><b class="small">Just taking a stroll in Tawang</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1dDC6x6wggPUCD6ouOXKs9C_9o73MTYFJ=s1600-k-iv1" alt="Roaming in Tawang" />
+<b class="small">Just taking a stroll in Tawang</b>
 
 After our breakfast, we went to the DC office to get the pass to Bum La. Prasad drove us. We had to stop at every junction and ask for directions. We finally made it what looked like a small municipal office building. There were no boards around and we didn't we couldn't distinguish between the army men and security guards by the uniform. After a few minutes of roaming around, a man came up to us and asked us,
 _"You have come to get the pass, right? Wait here. I will give you the form"_
@@ -160,18 +160,18 @@ _"Hurry up."_ With these words he gestured me to leave the office. Many others w
 
 So that was our experience in getting the **Bum La pass**. We were a bit disappointed. Not only will we have to pay the cab driver, we will miss the chance to drive on our own. Nevertheless, we decided to get a cab after getting back to Nehru Market. The Monastery was nearby. So we headed off to there. The Tawang Monastery was the largest in India and for some of us, it was the first time visiting a Buddhist Monastery. We saw the Monastery up ahead, but it looked deserted except for a few taxi cars parked. Deepu was in the front seat and asked a fellow passing monk, if it indeed was the Monastery and if we could go in. He nodded his head and walked away with a smile. Prasad parked the car. I grabbed Sebastian's camera and started clicking pictures. 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1ZRnFZJYryRMsSsZLnm0gAl_yzGnW-esU=s1600-k-iv1" alt="Prayer drum" /></center>
-<center><b class="small">One of the many Buddhist prayer drums</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1ZRnFZJYryRMsSsZLnm0gAl_yzGnW-esU=s1600-k-iv1" alt="Prayer drum" />
+<b class="small">One of the many Buddhist prayer drums</b>
 
 We could see the whole of Tawang town from this point.There was a giant Buddist prayer wheel outside. Their prayer 'Om Mani Padme Hum' was written all over the drum in the Tibetan language: '**སྤྱན་རས་གཟིགས**'. It has six syllables, each denoting a certain human quality. As we slowly made our way inside, I saw Appu and Sajeev talking to a young couple. Turns out that they from Kerala as well. After a small chit-chat, they went on their way. There were not many tourists around and strangely there were very few monks around as well. 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1rUBmkj61KwNpJcLN1ZtlG-BFAVqixNmt=s1600-k-iv1" alt="One legged hen" /></center>
-<center><b class="small">A hen posing for me near the Monastery</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1rUBmkj61KwNpJcLN1ZtlG-BFAVqixNmt=s1600-k-iv1" alt="One legged hen" />
+<b class="small">A hen posing for me near the Monastery</b>
 
 We entered the main praying hall. It was hard to believe that building was made in the 17th century. I saw many people sitting down on the vertical mats. Some were meditating, others were just posing for their friend's camera. I decided to take a good look around. The main Buddhist statue was huge. It looked similar to one of those architecturally marvelous Cathedrals. There were smaller statues of monks. Each of them carried a different object in their hands. I later learned that it represented the six syllables of their prayer. Many devotees had left money and eatables near the statue. There were yellow vertical prayer mats hanging from the ceiling. The place for monks to be seated was covered in a satin cushion. Since there were no prayers going on, we explored other doors and stairs. Outside the prayer hall, there was a museum as well. The rest of the buildings were the living quarters of the monks. That's what we assumed because there were no monks around to confirm. Kartha said we should have come when the prayers are going on.
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/19osNhWj4HLyKnCRxYd9VUOXwNTpz9Zwt=s1600-k-iv1" alt="inside the monastery" /></center>
-<center><b class="small">The statue of Buddha inside the Monastery</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/19osNhWj4HLyKnCRxYd9VUOXwNTpz9Zwt=s1600-k-iv1" alt="inside the monastery" />
+<b class="small">The statue of Buddha inside the Monastery</b>
 
 There is a special ambiance in the prayers that is energizing. We moved on to the ropeway that takes you to Ani Gompa. It is at walking distance from the Monastery. As we were making our way, we saw a group of cab drivers. We asked them if they could take us to Bum La. They gave me a number of their friend. I made the call and the driver agreed to take the seven of us for 4500 INR. I agreed, the standard rate was 5000 INR. He agreed to meet us at our Hotel at 2:00 pm. There was a small crowd near the ropeway. We thought we could easily go in the next round. Unfortunately, we had bad news. The rides ahead have already been booked and they only take six people at a time. That was the second disappointment of the day. 
 
@@ -179,8 +179,8 @@ There is a special ambiance in the prayers that is energizing. We moved on to th
 
 It was only 1:00 pm. We went back to our Scorpio and discussed what we should do. We needed to check the vehicle. After yesterday's strenuous journey, the brakes and tires needed to be checked. The cab driver had already mentioned a garage down the road run by a guy called, Babloo. _"Best guy in Tawang"_, that's how they described him. So we split into two groups. One group took the Scorpio to the garage and others went back to the hotel. Most of us were also tired by the long journey and needed more rest. On the way back, Appu mentioned that he saw a board that said - 'Cycles for rent'. I, Appu and Sajeev decided to check it out. The store name was - 'MyTawang'. They rent bikes, cycles and other adventure apparels. The bikes were in good condition, but I can't say the same about cycles. There were five Btwin mountain cycles at the store. The owner said three were already booked and he could only give us two cycles. Each cycle costs 500 INR for a day. One cycle didn't have the front brake. I took that one adjusted the seat height and started riding alongside Appu. As we rode through the street, all eyes were fixated on us, because no one rides a cycle on those hilly roads. Appu was having a very hard time making it up the hill. He was also not too familiar with gear shifting. I changed his gears to the lowest gear combination possible. After just a few kilometers, we found ourselves gasping for air. I think it has to do with the altitude. Onlookers were smirking at us, but we paid no attention. Since I had to meet up with the cab driver to Bum La, I went back to our hotel and gave the cycle to Sajeev. Once again, I found myself giving him a quick lesson on gear shifting. 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1g3zfgznHlQDYGducM5Sb8sIMyFreeWuf=s1600-k-iv1" alt="cycling in tawang" /></center>
-<center><b class="small">Cycling in Tawang</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1g3zfgznHlQDYGducM5Sb8sIMyFreeWuf=s1600-k-iv1" alt="cycling in tawang" />
+<b class="small">Cycling in Tawang</b>
 
 Time passed and I got tired of waiting for the cab driver. It was getting close to 3:30 pm and there was no sign of him. He was not picking up the calls as well. I decided to take a stroll down the street and saw a board - 'East Line Tours and Travels'. Just out of curiosity, I went in and enquired the cost of hiring a cab to Bum La. The man in the black jacket there said,
 
@@ -272,36 +272,36 @@ _"No Sir. There is no need for that. I will take you even if there is snow. Don'
 
 _"Calm down. Calm down. This is nothing. There are better views up ahead. Settle down please."_
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1CWupwdgCURhjI2IKUAh5zthtP9g_eXf_=s1600-k-iv1" alt="Snow mountain" /></center>
-<center><b class="small">One of the snow mountains in BumLa</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1CWupwdgCURhjI2IKUAh5zthtP9g_eXf_=s1600-k-iv1" alt="Snow mountain" />
+<b class="small">One of the snow mountains in BumLa</b>
 
 He was right, very soon, the only thing we could see was mountains and snow. By the time we reached the next checkpost, we couldn't contain ourselves. All of us popped out the Sumo and started digging into the snow. There were a few other Sumos around. They were also on the way to see Bum La pass. We couldn't hang around for long since we had to move out quickly. After this checkpost, we passed a lot of army trucks. The road is wide enough to pass just one truck, but still, they would give some space for the Sumos to pass. However, whenever we were climbing a steep slope, Leyki would keep a lot of distance from the vehicle in the front. Upon asking him, he replied,
 
 _"The thing is, if these trucks brake in the middle of the climb, there is a high chance that they will come back all the way down. Since the road is muddy with the melted ice, they will not get a good grip and might bump into us. Even if they don't bump into us, they need to start from the bottom to get some momentum to climb the slope. They can't just start from where they are stuck."_
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/14UaXB6EB-eD2dcySGlH23WAPGEwP-9br=s1600-k-iv1" alt="road to bumla" /></center>
-<center><b class="small">The road to BumLa covered with snow</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/14UaXB6EB-eD2dcySGlH23WAPGEwP-9br=s1600-k-iv1" alt="road to bumla" />
+<b class="small">The road to BumLa covered with snow</b>
 
 We were glad, we hired a cab. We were thinking that the roads would be similar to what we found near Sela Pass. In Sela Pass, at least some roads are tarred, but the roads to Bum La are not maintained properly at all. The indicators are also used in a different way in hilly roads. If the truck before you is glowing it's right indicator, it means the truck driver is giving you permission and space to overtake the truck. Leyki told us that at the end of the day, after driving these roads he becomes tired and goes to sleep very quickly. These roads demand patience and skill. 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1jg3E7Y-rAoWM6KSlcJu5LKZXBvA2g0hZ=s1600-k-iv1" alt="Snow angel attempt" /></center>
-<center><b class="small">Everyone taking a nap in the snow bed</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1jg3E7Y-rAoWM6KSlcJu5LKZXBvA2g0hZ=s1600-k-iv1" alt="Snow angel attempt" />
+<b class="small">Everyone taking a nap in the snow bed</b>
 
 We reached the third checkpost and thereafter the PTso lake. This is one of the largest lakes in the area. It almost looked as if it was carved out of the valley and jammed between two mountains. The scenery was a pleasure to the eyes. For some reason, Leyki stopped the Sumo in the middle of the road. He pointed out that other trucks way up the cliff had also halted. All of us got out of the Sumo. The army man passing by said that it is snowing at the top and that is why they are not letting us go. This meant the halt would go on for some time. Leyki looked disappointed. 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1g2xOt7IHQuS9kcLcQnZHPKJTp3LvRaEV=s1600-k-iv1" alt="lake in bumla" /></center>
-<center><b class="small">A nearly frozen lake in BumLa</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1g2xOt7IHQuS9kcLcQnZHPKJTp3LvRaEV=s1600-k-iv1" alt="lake in bumla" />
+<b class="small">A nearly frozen lake in BumLa</b>
 
 Nonetheless, we didn't waste any time. The first thing we tried was to build a snowman. All hands were on the deck rolling the snow into thick balls of ice. But smashing them together into a larger ball, big enough to form the belly of the snowman, was not that easy. Whatever techniques we tried, the snow would fall apart somehow. After admitting that building a snowman is not an easy task, we walked away. I noticed that Leyki was talking to the another Sumo driver. It seemed like they were planning to put on the chains on their tires. However Leyki had mentioned, he didn't carry any chains with him.
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1inwhQUSkyzolZRat-xC3JQqaV68HluvV=s1600-k-iv1" alt="road to bumla" /></center>
-<center><b class="small">The uphill climb to BumLa</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1inwhQUSkyzolZRat-xC3JQqaV68HluvV=s1600-k-iv1" alt="road to bumla" />
+<b class="small">The uphill climb to BumLa</b>
 
 Prasad was the most ecstatic among us. He went crazy with the snowballs. He and I soon ended up playing catch and throw. We didn't hesitate to dive and fall into the snow. It was smooth as a pillow. Almost half an hour had passed, still, there was no movement on the trucks. We noticed that all the army men were wearing sunglasses. We wished we had brought them with us. The glare from the white snow was hurting our eyes. I found it difficult to open my eyes to their normal capacity. 
 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1ClxTe6j-n5Qy4aJ4s9_o89XXWyfyXYYb=s1600-k-iv1" alt="photo group" /></center>
-<center><b class="small">Taking snaps while getting held by the Army</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1ClxTe6j-n5Qy4aJ4s9_o89XXWyfyXYYb=s1600-k-iv1" alt="photo group" />
+<b class="small">Taking snaps while getting held by the Army</b>
 
 By this time, Leyki and his driver friend were done with putting on the chains on each of their Sumo's. The other driver carried a spare one, which came handy for us. There was some movement at the top and vehicles started horning. We rushed to the Sumo and Leyki started the Sumo. We were glad that we were finally moving. We went up for just two hairpins. After that, all the Sumos had come to another halt. This time, the drivers were busy untying the same chains that they tied up half an hour ago. What a drama! Leyki also stopped and started doing the same. I asked, what just happened.
 
@@ -313,21 +313,21 @@ _"Hey, you want to go so fast already? Go any closer and you will slip!"_
 
 He was right. It is hard to judge the thickness of the snow. From the outside, it might appear even, but the bottom is definitely uneven. Sometimes our legs went in just up to the ankles and sometimes up to our knees. We had to be careful for our own sake. Meanwhile, Prasad and others were busy making snow angels on the other flatter side of the road. The tire was freed from the chain and the journey continued. There were huge rocks on the road that seemed to have fallen off the mountain in a landslide. There were so many writings on these rocks as well. So many inspirational quotes were written on these rocks. We noticed the same thing at the army stations as well. I believe surviving every day in these places really needs some inspiration. 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1Rs28s6viQDFViGfDSULWvZCUSr0y7o0R=s1600-k-iv1" alt="huge valley" /></center>
-<center><b class="small">One of the largest valleys near the top of BumLa</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1Rs28s6viQDFViGfDSULWvZCUSr0y7o0R=s1600-k-iv1" alt="huge valley" />
+<b class="small">One of the largest valleys near the top of BumLa</b>
 
 I was confused as to whether I should sit back and enjoy the view or snap as many pics as I can. Sitting in the front seat does come with its responsibilities. With one hand on the camera, out of the window pane, I tried to do both tasks. The melting snow decimated the road further. The valley and its surroundings bewitched our eyes. I don't remember anyone speaking anything in those moments. Our heads were almost unidirectional and any attempt at conversation would have destroyed the trance we were in. Leyki pointed out his finger and said, 
 
 "Look! That's Bum La Pass. We are almost there."
 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1xQE10OqnajCwh-i7ytcapdyt1V95mv5v=s1600-k-iv1" alt="igloo" /></center>
-<center><b class="small">The army Igloos near BumLa Pass</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1xQE10OqnajCwh-i7ytcapdyt1V95mv5v=s1600-k-iv1" alt="igloo" />
+<b class="small">The army Igloos near BumLa Pass</b>
 
 As we approached the pass, we started to see buildings and Igloos made by the army. These Igloos looked very different from the one I had seen in my Geography Textbook. Leyki parked the Sumo and we walked towards the Pass. There were a dozen tourists there. We had seen some of them in the town of Tawang. We realized that the army was serving hot tea by the side. I am not sure if it was cow milk or goat milk, but it tasted damn good. The army was only letting people enter group by group. So we had to wait for our turn. The notice boards, strictly said that photography is not allowed. However, everyone was clicking pictures and the guard didn't say anything. Our turn came. There was a nearly 100-meter walk to the LOC. On each side of the path, there were boards that portrayed the glory of each Indian state. It took us some time to find the board where Kerala was mentioned. The path we were walking had some history to tell us. It's where the Chinese army invaded India during the 1962 Sino-Indian war. It was only opened to traders and civilians in 2006. There was a Heap of Stones monument right at the borderline. It's actually a tribute to the Indian Army for guarding our motherland.
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1y6HxJTY3_im-e_dLxrbuWfctwPpvfil0=s1600-k-iv1" alt="BumLa" /></center>
-<center><b class="small">The panaromic view of BumLa Pass</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1y6HxJTY3_im-e_dLxrbuWfctwPpvfil0=s1600-k-iv1" alt="BumLa" />
+<b class="small">The panaromic view of BumLa Pass</b>
 
 The army men at the border spoke to us about the history of the place. He showed us the communication line that connects Indian Army to Chinese Army. Also in the distance, we could see a Chinese watchtower. One group is only allowed around five minutes near the border. Those five minutes felt really long though. We departed from BumLa. I asked Leyki, _"Where are we off to now?"_
 
@@ -335,18 +335,18 @@ _"Come. I will take you to Madhuri Lake"_
 
 There was a memorial nearby. It was completely buried in snow, so we didn't get a good look. I later learned that this was the memorial of Subedar Joginder Singh, a recipient of the Param Vir Chakra. Joginder Singh was the platoon commander of the 1st Battalion of Sikh Regiment. The story goes like this. During the war, the Chinese army terrorized Namka Chu. They planned to press forward and moved into Tawang. There they encountered the Sikh Regiment. The Regiment had only 20 men. The Chinese decided to attack the post in three waves, each comprising 200 men. The Sikh Regiment fought back. The first wave was down. But the strength of the Regiment halved. The commander, Joginder Singh was also wounded. They were out of ammunition. They only had their bayonets left with them. Undeterred, they charged in and fought valiantly. The Chinese had the numbers and superior ammunition. They won. Joginder Singh was captured and he passed away in Chinese captivity. But he had singlehandedly took the lives of over fifty enemy soldiers. I was reminded that it was because of Heros like Joginder Singh, that we can sleep peacefully in our country.
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1tEMoLhymYkV2JgiowRxPO983TZWGkbkx=s1600-k-iv1" alt="moss on trees" /></center>
-<center><b class="small">Green moss growing on pine trees. Their presence indicates clean fresh air</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1tEMoLhymYkV2JgiowRxPO983TZWGkbkx=s1600-k-iv1" alt="moss on trees" />
+<b class="small">Green moss growing on pine trees. Their presence indicates clean fresh air</b>
 
 Leyki was driving slowly down the hill. Once again the view of the valley enchanted us and all of us got lost in our thoughts. Pretty soon, we found ourselves discussing China, Communism and why India will take a long time to reach the growth level of China. The route to Madhuri lake was a bit long. The real name of the lake is Sangestar Tso. It was formed in an earthquake. It got the other name after the actress Madhuri Dixit danced around the lake in the movie Koyla. 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1JuPwtsnpqXe6Zd29sUs9BL5LL9FK3NRI=s1600-k-iv1" alt="Madhuri lake top view" /></center>
-<center><b class="small">A top view of Madhuri Lake</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1JuPwtsnpqXe6Zd29sUs9BL5LL9FK3NRI=s1600-k-iv1" alt="Madhuri lake top view" />
+<b class="small">A top view of Madhuri Lake</b>
 
 We reached the lake by around 1 pm. The view was not something I expected. It was a lake trapped between mountains surrounded by a walkway. There were arrays of pine trees stranded in the middle that was barren. There was even a canteen set up by the army. Oh boy! We were hungry! We saw a few other travelers from Mathura Grounds and BumLa who were also in the canteen. There were only two items on the menu - Momos and Poori Sabji. We ordered both. 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1Iv4C-vrRydQgVhEgoxhVoI4M1OwoJUo1=s1600-k-iv1" alt="Madhuri panoramic" /></center>
-<center><b class="small">A panoramic view of Madhuri surroundings</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1Iv4C-vrRydQgVhEgoxhVoI4M1OwoJUo1=s1600-k-iv1" alt="Madhuri panoramic" />
+<b class="small">A panoramic view of Madhuri surroundings</b>
 
 Madhuri lake was really huge. Also, there were Yaks feeding of the grass in the vicinity. They were gigantic. It's a good thing they were friendly creatures. We clicked some snaps and even helped other tourists take their snaps. Time passed too quickly I think. We roamed around a lot. Leyki was shouting from the parking area to come back. He was right, we had spent a lot of time. Somehow Sajeev and Appu were missing. I decided to look for them. None of the cells were working. So the only thing to do was take the side walkway and shout their names. I caught up with them somewhere in the middle. They can't be blamed, one can easily get lost in that scenic beauty and walk on and on losing track of time. Leyki was visibly upset when we returned. Almost all other Sumos had left for the day. On the route back, he didn't say a word. He tried to speed up a little, but with seven people inside and the road being in the poor condition it was, Leyki couldn't go much faster. To add some salt to the wound, the other drivers who were behind Leyki overtook him. Their Sumo's mostly had one or two passengers. So we were the last bunch. Plus it started snowing. Phew!
 
@@ -358,18 +358,18 @@ _"We are sorry.."_. I tried to say.
 
 _"Ya, I know. It happens. The thing is these roads are very tough and makes the driver very tired. You have to always switch between 1st and 2nd gear and when I reach back, I go to sleep and try to get the pass for tomorrow's passengers. Now, because you guys are late, I have no time to rest and I might even not get the pass from DC."_
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1HExFbGAhNEod2syC3_ZsJS3ETlR30VIB=s1600-k-iv1" alt="Cloud shadow" /></center>
-<center><b class="small">Clouds casting their shadow on the hills</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1HExFbGAhNEod2syC3_ZsJS3ETlR30VIB=s1600-k-iv1" alt="Cloud shadow" />
+<b class="small">Clouds casting their shadow on the hills</b>
 
 Everything he said was true. I simply asked him to stay optimistic. We had passed Mathura Grounds by this time. Only a few more kilometers to Tawang. From here the sky was so clear and we could get a nice view of the Tawang monastery. The clouds cast shadows along the valley and the monastery shined in the sunlight. At the same moment, we got the glimpse of a rainbow, one end in the mountains and the other in Tawang. It was the best sight of the day I think. An epic ending for the journey to BumLa.
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1a0q5rLnTT7aMI0usrqWaZ4cDxdM1v8on=s1600-k-iv1" alt="Monastery from top" /></center>
-<center><b class="small">The golden yellow building is the Tawang Monastery</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1a0q5rLnTT7aMI0usrqWaZ4cDxdM1v8on=s1600-k-iv1" alt="Monastery from top" />
+<b class="small">The golden yellow building is the Tawang Monastery</b>
 
 By 3:30 pm we reached back at our Hotel. Leyki could not go to the DC office. We offered him a tip, to cheer him up. I paid the remaining amount to the agency and we went straight back to the hotel. This time the heater was working. I took a hot shower and decided to go shopping. I wanted to buy the sweater that I bargained for the other day. And guess what happened? The shop was closed! Actually, the entire Old Market was closed. It turned out that Tuesday is the official holiday for Old Market, whereas for Nehru Market, the official holiday is Wednesday. But I had to buy something. I couldn't go home empty-handed. I went back to Nehru market and bought a Chinese tea set and a few sets of Buddhist prayer flags. It would make a nice souvenir. All of us joined back at Mon-valley restaurant for supper. We settled the bills at our hotel and quickly fell asleep.
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1mOQe1qVECJ9sm2PCD7pBhaADn8CzbBv9=s1600-k-iv1" alt="driver leyki" /></center>
-<center><b class="small">One last snap with our driver Leyki</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1mOQe1qVECJ9sm2PCD7pBhaADn8CzbBv9=s1600-k-iv1" alt="driver leyki" />
+<b class="small">One last snap with our driver Leyki</b>
 
 ---
 
@@ -398,13 +398,13 @@ _"Ok. Then it shouldn't be a big issue. Just drive slow. There are workshops the
 
 That was a good answer for the time being. The Andhra officer applied a lot of grease to reduce the heating. We tried to pay the officer for his service, but he declined right away. He reminded us that, it is their duty to help people like us. So we said our thanks and left the camp. It was a good thing that we gave the lift to those army men, otherwise, we would have continued the journey without realizing the issue. If the disk had heated up any further, it would have caused the tire to expand and burst. Now, all we had to do was drive slow, but still reach Dirang before evening. The time was only 11:00 am and we had roughly 70 kilometers to go. 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1VrI91kJyrXDSGaXAPO0J7zVhgx_iTwdb=s1600-k-iv1" alt="Scorpio being checked" /></center>
-<center><b class="small">The Andhra officer applying grease on right front tire</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1VrI91kJyrXDSGaXAPO0J7zVhgx_iTwdb=s1600-k-iv1" alt="Scorpio being checked" />
+<b class="small">The Andhra officer applying grease on right front tire</b>
 
 We reached Sela Pass and decided to take our lunch in the Prahari Cafeteria. It's maintained by the army. While we were waiting for the food to arrive, we saw a bunch of bike riders arrive. We had seen them earlier. Only now did we see the complete group. They were dressed up in complete riding gear. Some of them had the GoPro camera mounted and interestingly all of them rode the Mahindra Mojo bike. I asked them if it was a sponsored trip. It wasn't. They were part of a bike club and they really liked the new Mojo. A few members of the group were from Kerala. It was a visual treat to watch the bikers ride in unison. 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1Adc_JIpYHA3e2NRS1iWCZfNdrqBYBl26=s1600-k-iv1" alt="mojo riders" /></center>
-<center><b class="small">The Mojo gang preparing to take off</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1Adc_JIpYHA3e2NRS1iWCZfNdrqBYBl26=s1600-k-iv1" alt="mojo riders" />
+<b class="small">The Mojo gang preparing to take off</b>
 
 We changed drivers and drove on, very cautiously. It was 1:00 pm. Still, there was a lot of fog around. We stopped the Scorpio from time to time to make sure that disk was not overheated. As we were approaching we saw another army camp by the name, "Serang Warriors". We could see a proper workshop there with a few mechanics around. We stopped the Scorpio and inquired the matter with a fellow soldier. He asked us to wait and brought in a group of 4 army men. We said the same story again. The sound, how the Andhra officer helped us and why we must find replacement plates and so on. There was a Bihari officer among the group. He got excited. He said,
 
@@ -456,13 +456,13 @@ Appu was the one driving and he just wanted to go as fast as possible. The previ
 
 Nothing was planned for the day. We hadn't planned for anything after Tawang. The drop at Sangti Valley had to be canceled because of the brake plate issue. Our return flight was on Saturday, which meant we had ample time to do check out some other places. We started searching for google for things to do. There was no need for us to hurry. We had to come up with a plan by the time we reached Tezpur. With these thoughts on our mind, we set out again, without speeding this time.
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1gpyqE3qQPSs_WASPeP9xjD4UZbU64o_l=s1600-k-iv1" alt="posing for the camera" /></center>
-<center><b class="small">Taking a break on the journey to Bhalukpong</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1gpyqE3qQPSs_WASPeP9xjD4UZbU64o_l=s1600-k-iv1" alt="posing for the camera" />
+<b class="small">Taking a break on the journey to Bhalukpong</b>
 
 We stopped on many places that we had kept a mark on earlier. Every place you stop has something unique to offer. For lunch, we stopped at Tenga Hut. This was also maintained by the army. They had a gift store and even a play area for kids with jumping trampolines. Tenga Hut was situated along the lines of Tenga valley. You get a very good view from the hut shaped restaurant. We had some Chicken Biryani and drove on. When we saw that we could get down to the river rock bed, we took a stop. The water was ice cold. We somehow managed to get the top of the giant rocks and rested there for sometime. When you close your eyes and all you can hear is the sound of the river flow, you drift away to an other world. We spend a lot of quality time there.
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1SBA0b7aO08iBG9EaF-2uF_72W9n7Yt_2=s1600-k-iv1" alt="trying to get a snap" /></center>
-<center><b class="small">Me trying to get a shot of the river flow</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1SBA0b7aO08iBG9EaF-2uF_72W9n7Yt_2=s1600-k-iv1" alt="trying to get a snap" />
+<b class="small">Me trying to get a shot of the river flow</b>
 
 Bhalukpong was the next stop. There was a small stretch of muddy and almost swampy road. There was a lot of construction going on this part of the road and we were worried that our tires might get stuck. But everything went well. The only rule is you shouldn't stop. We reached Bhalukpong by early evening. Kartha insisted that we should have tea at the same tea stall that we stopped earlier. I think he fell in love with the tea and noodles. I just remember it being tasty. Anyway, we stopped there.
 
@@ -484,34 +484,34 @@ All of us got up early in the morning. Renjith had started calling over and over
 We saw the elephants and their trainers getting ready. All the passengers had to climb a platform that was as tall as the elephant. On top of the elephant is a 4 seater arrangement. It's a pretty safe arrangement. They brought the elephants closer to the platform and kept them steady. We stepped into the seat and the guides locked us in. We were seated to the right of the elephant. It was a bumpy feeling but felt comfortable. Slowly the elephants started making their way to the open area.
 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1pXbYltLeKKxWPuJhCBp_qB0x4mHTzt61=s1600-k-iv1" alt="rhino" /></center>
-<center><b class="small">The one-horned Rhino</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1pXbYltLeKKxWPuJhCBp_qB0x4mHTzt61=s1600-k-iv1" alt="rhino" />
+<b class="small">The one-horned Rhino</b>
 
 Kaziranga National Park is home to two-thirds of the world's one-horned rhino. The first stop in the Safari are these rhinos. The elephants took us to a close distance from the rhinos. The largest ones were actually taking a dip in the water. A few were just walking along the grass meadows. We got close to them as much as possible. It's pretty nice watching all the tourists hoped on top of the elephants trying to grab a good view of the rhinos. The rest of the safari was mostly in the grasslands. There were some deer and wild pigs. It seemed like the animals were not afraid of the elephants, so we could get an up-close view of them. These elephants that were riding were young elephants and they have been trained for this job for a long time. The one we were riding was called Poornima and she was 39 years old. The also took us to the edge of the river. We could see a herd of animals on the opposite side taking a morning sip. I had only seen such scenes in National Geographic or Animal Planet before. On the whole, the safari lasted only one hour. It was a new and different experience for all of us.
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1vHP8j4RWzD3J83eC6wo-Aw_wdRztnuy6=s1600-k-iv1" alt="safari" /></center>
-<center><b class="small">Buckled up on the top of the elephant</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1vHP8j4RWzD3J83eC6wo-Aw_wdRztnuy6=s1600-k-iv1" alt="safari" />
+<b class="small">Buckled up on the top of the elephant</b>
 
 We hadn't had any breakfast till then. Just opposite our Hotel, there was a restaurant, Kaziranga Hut. It was just opening up and they said it will take some time to prepare the breakfast. While we were waiting, I just took a look at the garden that was in front of the restaurant. Nothing much special, except the fact that they were very big in size compared to their counterparts in Kerala. There was an Assamese couple in the front yard. They were chatting with Seb. I jumped into the conversation. They were curious about Kerala and wanted to know more about our culture and food habits. Their Hindi had an Assamese accent to it. Somehow we managed to answer their questions. It is always refreshing to know that people are interested to learn about Kerala.
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1OQ0cHDf-sdgf4VRrkVhuAPpxqBbqzhgy=s1600-k-iv1" alt="The road cow" /></center>
-<center><b class="small">The road belongs to everyone in Kaziranga</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1OQ0cHDf-sdgf4VRrkVhuAPpxqBbqzhgy=s1600-k-iv1" alt="The road cow" />
+<b class="small">The road belongs to everyone in Kaziranga</b>
 
 Post breakfast, we went back to Sneha Bavan. All of us were a bit exhausted. We didn't have anything else on our to-do list. I asked the hotel owner, if there are some other sites, we can visit. He mentioned an orchidarium that was close by. Well since we were there, we decided to give it a look. Appu and Ashwin decided to stay back and get some rest. The rest of us were ready to go. The orchidarium was just a few kilometers away. When we reached the place, the rain started to get stronger. The real name of the park was Kaziranga National Orchid and Biodiversity Park. It was a very quiet place. There were a few tourists around. The entry ticket was Rs.100. They gave us extra-large umbrellas when we entered. We didn't know what to expect. On the left, we saw a large covered space that resembled a greenhouse. It had lots of orchid varieties. 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1y5V4v-v5JbJZ0wL9fdUsUafwcwKt0hY1=s1600-k-iv1" alt="gallery" /></center>
-<center><b class="small">Gallery inside the Biodiversity park</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1y5V4v-v5JbJZ0wL9fdUsUafwcwKt0hY1=s1600-k-iv1" alt="gallery" />
+<b class="small">Gallery inside the Biodiversity park</b>
 
 But the orchids were not the main attraction. To the right, there was a working space where we saw women weaving clothes using their classic weaving machines. Plus the tools they used for farming and fishing were put on display. There was a galley of images displaying the major tourist spots in Assam. The best part about our Biodiversity park experience was the tribal dance performance. North-eastern tribes have a lot of tribal dance forms called Bamboo dance, Bihu dance and so on. There was a small stage show that displayed these art forms in its full color. They did this every one hour or so. Even some of the other local visitors started dancing with them.
 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1x7Nz9yF5mJH8GqHQGdM9L0c-oWe1Dcya=s1600-k-iv1" alt="weaving women" /></center>
-<center><b class="small">A woman using their machines to weave clothes</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1x7Nz9yF5mJH8GqHQGdM9L0c-oWe1Dcya=s1600-k-iv1" alt="weaving women" />
+<b class="small">A woman using their machines to weave clothes</b>
 
 We went back to the hotel and teased Appu and Ashwin on how they missed a golden opportunity. We left for Guwahati by 11:30 am. It was daytime and we could see the endless tea plantations that Assam was famous for. When going to Tezpur, we had to cross the mighty Brahmaputra river. The bridge built over this path, called Kalia Bhomora Bridge is one of the longest in India. It took us around 3 minutes to cross the bridge. For lunch, we found a fancy looking dhaba by the highway and decided to stop there. It was called Samaroh Dhaba. It reminded us of the shops in Alleppy with its hut-like structure. More interestingly, this Dhaba was listed by the TLC channel as one of the top 10 best Highway Dhabas to visit. The food did stand up to that name. There was a lot of traffic when we reached Guwahati. We managed to find a guest home for the night. The only thing to do was to return the Zoom Car. We were a bit skeptical about the written fuel bills. We submitted all the bills, the replaced brake plates and waited to see what they would say. They didn't say anything. They just accepted all the bills and said farewell.  We were glad that things went smooth. We visited some shopping malls in Guwahati and tried to taste Kolkata Chicken Biriyani. It was less spicy compared to the Hyderabadi version. But it tasted good. We went back to our guest house and spent the last night in Assam.
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1Rz-yC_D7m7mOx-NAvmUCYkjkG7tO25PT=s1600-k-iv1" alt="tea plantations" /></center>
-<center><b class="small">The source of Assam apple valley tea</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1Rz-yC_D7m7mOx-NAvmUCYkjkG7tO25PT=s1600-k-iv1" alt="tea plantations" />
+<b class="small">The source of Assam apple valley tea</b>
 
 ---
 
@@ -519,8 +519,8 @@ We went back to the hotel and teased Appu and Ashwin on how they missed a golden
 
 Our return flights were in the morning. It was a connection flight, first from Guwahati to Chennai. Then a halt in Chennai for six hours and then go directly to Kochi from Chennai. During those six hours, we left for our apartments in Chennai and took some rest. The second flight was delayed by two hours, but we didn't care much. We were mentally and physically tired, but our minds were still in Tawang. It was quite a memorable journey, a journey of seven people for seven days. 
 
-<center><img src="https://lh3.googleusercontent.com/u/0/d/1hB8eC4KlUaALFMZeuCZLc_Me_nyPDTQV=s1600-k-iv1" alt="Group photo" /></center>
-<center><b class="small">The seven, from the left - Kartha, Sajeev, Appu, Me, Ashwin, Seb & Deepu</b></center>
+<img src="https://lh3.googleusercontent.com/u/0/d/1hB8eC4KlUaALFMZeuCZLc_Me_nyPDTQV=s1600-k-iv1" alt="Group photo" />
+<b class="small">The seven, from the left - Kartha, Sajeev, Appu, Me, Ashwin, Seb & Deepu</b>
 
 For me, the best way to keep memories alive is by writing about it. And this particular article is the longest I have ever written. I hope I was about to articulate our experience in the best way possible. If you have some similar stories or adventures, do share them. 
 

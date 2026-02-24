@@ -11,7 +11,7 @@ share: y
 
 **Artificial Intelligence (AI) is the pinnacle of human dreams** – to create machines that can talk, think and feel like humans. The idea has been around for a long time. The term “artificial intelligence” was coined in 1965 on the campus of Dartmouth College. Research in the field of AI has seen a lot of ups and downs Since the 21st century, investment and interest towards this field has bloomed and seems very promising. It is not surprising that as much as exciting and ambitious as this Artificial Intelligence have been, it is not short of controversies. There is a growing counter side that is worried about the advent of machines that will outsmart humans.
 
-<center><img src="https://images.pexels.com/photos/595804/pexels-photo-595804.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb" alt="AI" /></center>
+<img src="https://images.pexels.com/photos/595804/pexels-photo-595804.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb" alt="AI" />
 
 **What is AI**
 
@@ -29,7 +29,7 @@ Artificial intelligence (AI) would be the possession of intelligence, or the exe
 We are already using AI in our daily life's. The Virtual assistants that we use in our smartphones serve us information based on our preferences and usage history. The use of AI in video games is a fast-growing field that has made the games more realistic and unpredictable. Self-driving cars have also entered the market and shown that they are less prone to accidents compared to their human counterparts. The recommendation service provided by online retailers and music streaming websites rely on intelligent systems to retain their customers. There are many areas of our life where AI is believed to have a large impact.
 
 
-<center><img src="https://images.pexels.com/photos/355948/pexels-photo-355948.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb" alt="AI" /></center>
+<img src="https://images.pexels.com/photos/355948/pexels-photo-355948.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb" alt="AI" />
 
 - **Healthcare** is already undergoing a huge transformation and AI technologies are accelerating this process. From medical bots that analyze the symptoms of a patient, to designing treatment plans based on past medical records and even early detection of life-threatening diseases, AI has penetrated the industry like no other. A large number of companies have invested in technologies that will revolutionize the healthcare industry. Efforts are underway to develop robots that will assist the elderly and play with young children; interacting with them and giving them company.
 
@@ -42,7 +42,7 @@ We are already using AI in our daily life's. The Virtual assistants that we use 
 - **Cyborg Technology** looks forward to augmenting the human brain with computational intelligence and thereby transform our way of thinking. It is the human brain that makes humans intelligent. Since evolution will not make us smarter in the near future, Scientists believe Cyborg technology can. It is possible that these 'neuro-prosthetics' will give us additional cognitive or sensory abilities. Brain-computer interfaces have already been used for amputees to give control over their robotic limbs. The symbiosis between man and machine promises to unlock the shadows of the unknown. This sure is an emerging field that will raise many eyebrows.
 
 **What Now**
-<center><img src="https://images.pexels.com/photos/129742/pexels-photo-129742.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb" alt="AI" /></center>
+<img src="https://images.pexels.com/photos/129742/pexels-photo-129742.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb" alt="AI" />
 
 
 With so many applications for AI, it is no wonder that the future will change forever. But the question that remains is what will happen to the human race? There is still a long way to go before an Artificially Intelligent system can outperform the human brain in all aspects. However, they will disrupt the job market. Similar to how automation rendered the human task force jobless, AI machines will do the same and even more. Job losses are an inevitable impact. In the long run, machines might even create more meaningful and satisfying jobs. The bottom line is that AI and related technologies will open doors that we never knew existed. It will shape a world that is different from the present. It will usher in a new revolution, which for those who manage it properly will help them lead a prosperous life.

@@ -192,6 +192,9 @@ section.post {
   iframe { width: 100%; }
   iframe, img { 
     padding: 0; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     @include border-bottom-radius(3px); @include border-top-radius(3px);
   }
 }
@@ -200,6 +203,7 @@ section.post, section > p {
   font-size: 14px; line-height: 1.6em;
   * { max-width: 100%; }
   em strong { background-color: #ffffee; padding: 0 2px; }
+  b.small, .small { text-align: center; display: block; }
   blockquote { 
     @include transition(all, 0.3s);
     color: #606060;
@@ -208,6 +212,7 @@ section.post, section > p {
     overflow: hidden;
     display: block;
     padding: 15px 60px;
+    margin-bottom: 15px;
     &:hover { color: #454545; }
     &:hover:before { color: darken(#d0dfda, 8%); }
     &:before { left: -3px; }
