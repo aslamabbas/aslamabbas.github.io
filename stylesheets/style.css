@@ -430,7 +430,8 @@ section.post {
 
 
   section.post iframe, section.post img {
-
+    width: 100%;
+    max-width: 100%;
     background: #ffffff;
     border-radius: 20px;
     padding: 5px;
