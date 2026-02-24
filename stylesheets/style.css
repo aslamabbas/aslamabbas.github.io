@@ -422,6 +422,8 @@ section.post {
   section.post iframe {
     width: 100%; }
   section.post center {
+    display: block;
+    width: 100%;
     margin-bottom: 30px; }
 
 .content h3{
